@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adware BL(By Garuda)
+! Title: Adware
 Domain Bad Isue Ads
 
 ||*-a.akamaihd.net^
