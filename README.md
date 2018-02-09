@@ -6,6 +6,7 @@ adware
 https://raw.githubusercontent.com/kano1/adblock/master/adware.txt
 
 malware
+
 https://raw.githubusercontent.com/kano1/adblock/master/Malware.txt
 
 spyware
