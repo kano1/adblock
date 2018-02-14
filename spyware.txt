@@ -12,6 +12,40 @@
 /system/logs/98h7b66gb.exe
 /system/logs/98yhb764d.exe
 /system/logs/uy78hn654e.exe
+/alumno309/images/base.bin
+/alumno309/images/base.exe
+/alumno309/images/secure.php
+/capa.bin
+/capa.exe
+/descargas/adm/gate.php
+/descargas/config/orqu.bin
+/images/secure/config.bin
+/images/secure/gate.php
+/jaextmanager_data/rimm.bin
+/jaextmanager_data/secure.php
+/jm32/includes/site/bot.exe
+/jm32/includes/site/config.bin
+/jm32/includes/site/gate.php
+/js/MOM/config.jpg
+/js/MOM/gate.php
+/nova/config.jpg
+/nova/gate.php
+/novo/panel/config.jpg
+/novo/panel/gate.php
+/sadcxvbv/vdfbffddf.php
+/secure.php
+/wp-content/plugins/wp-db-backup-made/work.php
+/wp-includes/panel/config.jpg
+/wp-includes/panel/gate.php
+/zejius/2HZG41Zw/6Vtmo6w4yQ5tnsBHms64.php
+/zejius/2HZG41Zw/bot.exe
+/zejius/2HZG41Zw/fJsnC6G4sFg2wsyn4shb.bin
+/zejius/5GPR0iy9/6Vtmo6w4yQ5tnsBHms64.php
+/zejius/5GPR0iy9/bot.exe
+/zejius/5GPR0iy9/fJsnC6G4sFg2wsyn4shb.bin
+/zeujuus/a/gate.php
+/zeujuus/a/modules/bot.exe
+/zeujuus/a/modules/config.bin
 /t-view/1.0.3.462/inethnfd-setup.exe
 /t-view/1.0.3.743/inethnfd-setup.exe
 /gwctlsrv.exe
@@ -4150,16 +4184,23 @@ zumi.pl###cookieView
 ||z32538.nb.host127-0-0-1.com/bins/int/np_pkz.int?affid=NP_0104&fxp=2ac11c971204a16811817c725e04d68a44f9d4987c472f66eb08d0
 ||z7752.com/checkout.php?step=1
 *.blogspot.*/js/cookiechoices.js$script
+
 ||006.freecounters.co.uk^
 ||02ip.ru^
 ||039574501.com^
+||039b1ee.netsolhost.com^
+||03a6b7a.netsolhost.com^
+||03a6f57.netsolhost.com^
+||03bbec4.netsolhost.com^
 ||06272002-dbase.hitcountz.net^
 ||09killspyware.com^
 ||0ba7bb7e.ngrok.io^
 ||0daygameparadise.com^
 ||0hacks.com^
+||0if1nl6.org^
 ||0pencase.com^
 ||0stats.com^
+||0x.x.gg^
 ||1.pandawamovie.com^
 ||100.1qingdao.com^
 ||1000taxi.com^
@@ -4206,6 +4247,7 @@ zumi.pl###cookieView
 ||2014hacks.com^
 ||2014tools.com^
 ||2017tlrooomsss.000webhostapp.com^
+||210.37.11.238^
 ||21boxoffice.com^
 ||237482345sd.com^
 ||24-tabs.ru^
@@ -4819,6 +4861,7 @@ zumi.pl###cookieView
 ||52uo5k3t73ypjije.zhvlh1.bid^
 ||52uo5k3t73ypjije.zxtezv.bid^
 ||52uo5k3t73ypjije.zzis8p.bid^
+||54g35546-5g6hbggffhb.tk^
 ||5877-summary-webappss.ml^
 ||58793419.swh.strato-hosting.eu^
 ||59-106-20-39.r-bl100.sakura.ne.jp^
@@ -4837,6 +4880,9 @@ zumi.pl###cookieView
 ||7-eleven-handbags.com^
 ||72hdownload.com^
 ||74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfort.at^
+||76tguy6hh6tgftrt7tg.su^
+||77.228.191.183:7674^
+||77.228.191.183:7890^
 ||774378.com^
 ||7games7.com^
 ||7gk8jcz.xyz^
@@ -5045,6 +5091,7 @@ zumi.pl###cookieView
 ||affiliateproductes.com^
 ||affiliatestartmechanic.com^
 ||affordableonlinemarket.com^
+||afobal.cl^
 ||afp.gov.au.id312666359-9036410720.w595505.com^
 ||afreenetflixaccount.com^
 ||afribeirao.com.br^
@@ -5062,6 +5109,7 @@ zumi.pl###cookieView
 ||ahaliahospitals.org^
 ||ahb-law.net^
 ||ahlanmedicalcentre.com^
+||ahmedashid.com^
 ||ahpens.com^
 ||ahsofxvnbmnyqcpkr.pw^
 ||ahsqbeospcdrngfv.info^
@@ -5146,6 +5194,7 @@ zumi.pl###cookieView
 ||aligator.exgrafix.com^
 ||aligator.footai.es^
 ||alivehacks.com^
+||aljazeera.kz^
 ||all-games-cheats.com^
 ||all-screenshots.net^
 ||all-tgp.org^
@@ -5155,6 +5204,7 @@ zumi.pl###cookieView
 ||allesperu.com^
 ||allfilesend.com^
 ||allfilmshd.com^
+||allfortune777.biz^
 ||allfreehack.com^
 ||allfreesoftware.org^
 ||allgamehacks.org^
@@ -5207,6 +5257,7 @@ zumi.pl###cookieView
 ||alumvidro.com.br^
 ||alushtadom.com^
 ||alvarezcleaning.com.au^
+||alvoportas.com.br^
 ||alwaysfreexboxlive.com^
 ||alwaysnewsoft.thegreatstabilitycontentingclear.win^
 ||alysonpayne.com^
@@ -5251,6 +5302,7 @@ zumi.pl###cookieView
 ||amzingsuv.in.net^
 ||amztenshopstore.co.uk.ref3e8903422222.grillapointechs.com^
 ||anacronu.ru^
+||analiticwebexperience.com^
 ||analytics.prx.org^
 ||anamovies.com^
 ||ananapa.ru^
@@ -5259,6 +5311,7 @@ zumi.pl###cookieView
 ||anastasiadate.com^
 ||anbqjdoyw6wkmpeu.oldtrees.at^
 ||anchorenviro.com^
+||anderlechti.com^
 ||andrewsmith621.000webhostapp.com^
 ||android-form.eu^
 ||android-game-hacks.com^
@@ -5282,6 +5335,7 @@ zumi.pl###cookieView
 ||angelcortas388.000webhostapp.com^
 ||angry-birds-epic.com^
 ||angryhack.com^
+||angryshippflyforok.su^
 ||angrystake.com^
 ||angrystakes.com^
 ||anifranchise.com^
@@ -5378,6 +5432,7 @@ zumi.pl###cookieView
 ||apple-icloud-lost.top^
 ||apple-id-cziphone.top^
 ||apple-service-systeam.com^
+||apple-trusted.com^
 ||apple-visit-reply.com^
 ||apple.com-updatemyaccount.loginprocessverify.be^
 ||apple.id.dr56x4xw3z2322.soberanosantuario.cl^
@@ -5422,6 +5477,7 @@ zumi.pl###cookieView
 ||arboxyl.com^
 ||arcanelegendshack.verallohacks.com^
 ||arcani-maconnerie.fr^
+||arcelikpendikservisi.gen.tr^
 ||archanatraderspilathara.com^
 ||archersdelathur.org^
 ||archotech.com^
@@ -5454,6 +5510,7 @@ zumi.pl###cookieView
 ||arttoxfb.com^
 ||aruljohn.com^
 ||arvindtravels.com^
+||arvision.com.co^
 ||as-scaffolding.co.uk^
 ||as3ws.fopyirr.com^
 ||asamnet.de^
@@ -5466,6 +5523,7 @@ zumi.pl###cookieView
 ||asesoriaerakin.com^
 ||asgard.sharezips.info^
 ||asgarddlc.sharezips.net^
+||ashoesheestono.eu^
 ||asian.replyme.pw^
 ||asianbooty.net^
 ||asianread.com^
@@ -5530,6 +5588,7 @@ zumi.pl###cookieView
 ||australiapage.co.uk^
 ||australiaupload.com^
 ||auth.paypal-verification.webbapss-account.my-page.me^
+||auto-fx.fr^
 ||auto-val.com^
 ||autobacklinkbomb.com^
 ||autohaus-seevetal.com^
@@ -5543,6 +5602,7 @@ zumi.pl###cookieView
 ||avaloninvestmentsinc.com^
 ||avancarvisual.com.br^
 ||avarcaavenue.com^
+||avast-mail-security.download^
 ||avast.legratuits.com^
 ||avgreekfest.com^
 ||avpsjncogss.com^
@@ -5596,13 +5656,16 @@ zumi.pl###cookieView
 ||axcpbvmtj.info^
 ||axiomair.com.au^
 ||axnemuevqnstqyflb.work^
+||axpoium.echange.su^
 ||ayalapma.com^
 ||aycempresarial.com^
 ||aykensdrafting.com.au^
+||az-armaturen.su^
 ||azcodegenerator.com^
 ||azfilesharing.com^
 ||azhacks.com^
 ||azongift.com^
+||b.1s2.in.ua^
 ||b.oix.com^
 ||b.oix.net^
 ||b.scorecardresearch.com^
@@ -5628,12 +5691,15 @@ zumi.pl###cookieView
 ||badadownload.com^
 ||badahub.com^
 ||badgerwardappeal.com^
+||badlywantyou.top^
 ||badogy.net^
 ||baggir.org^
 ||bagusholidays.com^
+||baliwag.xyz^
 ||balkanium.altervista.org^
 ||baltihen.com^
 ||bamkofamerica.000webhostapp.com^
+||banana.dp.ua^
 ||bancabci.premios.info^
 ||bancocaixa.net^
 ||band-it-music.de^
@@ -5647,6 +5713,7 @@ zumi.pl###cookieView
 ||banner.0catch.com^
 ||banoteraswaer.com^
 ||banquetroyalenigeria.com^
+||baoshlda.com^
 ||barbaraserazzi.com^
 ||barchello.ru^
 ||barclaycard.de-vorgangsnummer-361.info^
@@ -5710,6 +5777,7 @@ zumi.pl###cookieView
 ||beamark.noiselolpainoff.com^
 ||beasthacks.com^
 ||beatthepip.com^
+||beatyhousesupporte.su^
 ||beautynothing.net^
 ||beautyspaguide.com^
 ||beaverday.biz^
@@ -5721,6 +5789,7 @@ zumi.pl###cookieView
 ||behinde-illizion.ru^
 ||behsazmashin.com^
 ||beldurbarik.org^
+||bellinghambar.tk^
 ||benget.com^
 ||bentdownload.com^
 ||beprogamer.com^
@@ -5744,10 +5813,12 @@ zumi.pl###cookieView
 ||bestandroidhacks.com^
 ||bestappsforpc.com^
 ||bestaustralianpoppers.com^
+||bestboy.top^
 ||bestcase.pro^
 ||bestcheats4u.com^
 ||bestcheatzone.com^
 ||bestdatastore.com^
+||bestdove.in.ua^
 ||bestfacebookcheats.com^
 ||bestfbhack.com^
 ||bestfile.net76.net^
@@ -5831,6 +5902,7 @@ zumi.pl###cookieView
 ||bhartiwebinfotech.com^
 ||bhawanisolution.com^
 ||bhosadwa.com^
+||bibrath.eu^
 ||bidr.trellian.com^
 ||bidwili.com^
 ||biebersecrets.vvassup.com^
@@ -5845,6 +5917,7 @@ zumi.pl###cookieView
 ||bigsoccerwinhack.gethackz.com^
 ||bigtit.me^
 ||bijou-cinemas.com^
+||bikeshophaidli.com^
 ||bilbo.counted.com^
 ||bilbotrade.com^
 ||bilia-emond.com^
@@ -5852,6 +5925,7 @@ zumi.pl###cookieView
 ||billattewell.com^
 ||billysprobike.ca^
 ||bin.clearspring.com^
+||bin1.kns1.al^
 ||bingoblitzcheats.com^
 ||binsservicesonline.info^
 ||binweevilsdoshcodes.com^
@@ -5876,6 +5950,7 @@ zumi.pl###cookieView
 ||bitcoinsgenerator.net^
 ||bitdefenderlicense.com^
 ||bitfiles.net^
+||bitters.su^
 ||biturl.io^
 ||biyskiykotelnyuzavod.ru^
 ||biz142.inmotionhosting.com^
@@ -5883,6 +5958,7 @@ zumi.pl###cookieView
 ||bkdjvmmkwgkvgw.su^
 ||bksfr.com^
 ||bktrade.kiev.ua^
+||bl1nqz8yrf7tgdsq.tk^
 ||black-files.com^
 ||black.sharezips.info^
 ||blackflag.sharezips.info^
@@ -5893,6 +5969,7 @@ zumi.pl###cookieView
 ||blackhat.be^
 ||blackhatsky.com^
 ||blackhatsoft.net^
+||blackhill.pp.ua^
 ||blackislandpack.sharezips.info^
 ||blackislandpack.sharezips.net^
 ||blacklawrence.com^
@@ -5930,7 +6007,9 @@ zumi.pl###cookieView
 ||blog-uk.com^
 ||blog.abugfreemind.com^
 ||blog.nebula.us^
+||blog.raw-recruits.com^
 ||blog247.ro^
+||blogerjijer.pw^
 ||bloglock.net^
 ||blogorodie.ru^
 ||bloodbrothershacked.com^
@@ -5965,6 +6044,7 @@ zumi.pl###cookieView
 ||bodycaredistribution.com^
 ||boilersandfurnaces.com^
 ||bola.thegoldenpalette.com^
+||bolerakopsoa.pw^
 ||bolizarsospos.com^
 ||boltfiles.com^
 ||bomautoatendimentodigital-com-br.umbler.net^
@@ -6003,6 +6083,7 @@ zumi.pl###cookieView
 ||boostgamble.com^
 ||boot-ini-missing.us^
 ||bootyou.net^$important^
+||bora.studentworkbook.pw^
 ||borispecanac1982.000webhostapp.com^
 ||borninataxi.net^
 ||boskawiez.hekko24.pl^
@@ -6010,6 +6091,7 @@ zumi.pl###cookieView
 ||bothimportant.net^
 ||botmafia.com^
 ||botnetdownload.com^
+||bots.configbinbots.info^
 ||botsagario.net^
 ||botsdownload.com^
 ||bottomsupthonglor.com^
@@ -6030,8 +6112,10 @@ zumi.pl###cookieView
 ||bqx.proxysitelist.net^
 ||bradfrod.com^
 ||brainabundancelc.com^
+||branchtist.com^
 ||brandedleadgeneration.com^
 ||brandnewop.com^
+||brausincsystem.pro^
 ||brave-frontier-hack.com^
 ||bravefrontiercheats.com^
 ||brazzers-hack.com^
@@ -6043,6 +6127,7 @@ zumi.pl###cookieView
 ||brianschulman.com^
 ||bridgesdisability.org.au^
 ||bridgingnations.org^
+||bright.su^
 ||brighthousegreencleaning.com^
 ||brilliantfiles.com^
 ||brillianthack.com^
@@ -6055,6 +6140,7 @@ zumi.pl###cookieView
 ||brom-build.ro^
 ||bronzeshark.com^
 ||broshoes.info^
+||brothersmt2.tk^
 ||brothosonkonlonwon.ru^
 ||browsergamescheats.net^
 ||brunga.at^
@@ -6078,6 +6164,8 @@ zumi.pl###cookieView
 ||bullpit.faboshine.com^
 ||bumpgaming.net^
 ||buraqmarketing.com.pk^
+||burgerspendingbusiness.kz^
+||burn.settingsdata.store^
 ||burnfudd.in.net^
 ||burnshare.net^
 ||burnvoice.com^
@@ -6103,6 +6191,7 @@ zumi.pl###cookieView
 ||bypassios7activationlock.com^
 ||bypassonlinesurveys.com^
 ||bypassremovesurveys.com^
+||bytes.darktech.org^
 ||bzupload.com^
 ||c.oix.com^
 ||c.oix.net^
@@ -6160,6 +6249,7 @@ zumi.pl###cookieView
 ||canada-etransfer.tk^
 ||canada.interactonlinerefund.imberb.gq^
 ||canadianmedstores.org^
+||canadianonlineagreementservices.kz^
 ||canaryexperience.es^
 ||cancel-subscription-confirmation-netflix.cf^
 ||cancel.direct.page-scure12478919.com^
@@ -6178,6 +6268,7 @@ zumi.pl###cookieView
 ||candycrushsagahack.com^
 ||cantelco.net^
 ||canyonbio.com.tw^
+||capacitacion.inami.gob.mx^
 ||capdc.com.au^
 ||cape101.co.za^
 ||capita60.beget.tech^
@@ -6229,6 +6320,7 @@ zumi.pl###cookieView
 ||casgolounge.com^
 ||cash2share.us^
 ||cashbuzz.org^
+||casher777soft.pw^
 ||cashfile.org^
 ||cashfiles.org^
 ||cashfly.com^
@@ -6256,6 +6348,7 @@ zumi.pl###cookieView
 ||ccganadera.com.co^
 ||ccirlimited.com^
 ||ccsagacheats.com^
+||cd31411.tmweb.ru^
 ||cdicasup.beget.tech^
 ||cdrbbebvmrmvgig.com^
 ||cdxbbpngq.pw^
@@ -6367,7 +6460,9 @@ zumi.pl###cookieView
 ||chaes-ss.000webhostapp.com^
 ||chaliawala.com^
 ||challengestrata.com.au^
+||chambercb.tk^
 ||champagnenurseries.co.uk^
+||championbft.com^
 ||chandrachellappancollegeofeducation.com^
 ||changduk26.com^
 ||chaoshackss.com^
@@ -6526,6 +6621,8 @@ zumi.pl###cookieView
 ||chelick.net^
 ||cheriefm.fr^
 ||chew1983.myjino.ru^
+||chezhiyasweheropasl.su^
+||chhathpuja.com^
 ||chic-avenue.fr^
 ||chiefwheat.net^
 ||child-safe-kits.com^
@@ -6554,6 +6651,8 @@ zumi.pl###cookieView
 ||chroniczip.com^
 ||chunrikurta.com^
 ||ci-mpsnare.iovation.com^
+||ciceidr.top^
+||cicero-dropbox.tk^
 ||cigaretteshoplan.com^
 ||cinamuse.com^
 ||cineble.com^
@@ -6564,9 +6663,11 @@ zumi.pl###cookieView
 ||cinemaxy.com^
 ||cipta.net^
 ||cira.login.cqr.ssl.igotmyloverback.com^
+||circleread-view.com.mocha2003.mochahost.com^
 ||cisay.cinemamovie.biz^
 ||citiesoftomorrow.dlcodes.com^
 ||citointechnologiesalefor.top^
+||citricbenz.website^
 ||citycardriving-crack.com^
 ||cityville-cash.com^
 ||cityville2hack.com^
@@ -6724,6 +6825,8 @@ zumi.pl###cookieView
 ||code-free-wifi-gratuit.fr^
 ||code-gratuit.org^
 ||code-psn-gratuit.fr^
+||code.blaztech.gdn^
+||codebacktowork2.tk^
 ||codebreakers-elite.com^
 ||codeforpsn.com^
 ||codegenerator.me^
@@ -6817,20 +6920,25 @@ zumi.pl###cookieView
 ||coolingame.com^
 ||coolmydl.com^
 ||corefitness.info^
+||corefwdgroup.tk^
 ||corehacks.com^
 ||cori.pw^
 ||correctornetworks.com^
+||cosmosdady.su^
 ||costasmcafe.com^
 ||cotelia.com^
 ||cottoncotton.co.uk^
 ||count.channeladvisor.com^
 ||count.xhit.com^
+||counter-1.adscounter.com.ua^
 ||couponcodesforamazon.com^
 ||couponmole.com^
 ||couponpitara.com^
 ||couponshop.pw^
 ||coverthunterpack.sharezips.info^
 ||coverty.it^
+||cp53072.cloudhosting.lv^
+||cp53091.cloudhosting.lv^
 ||cpadoom.com^
 ||cpafornoob.com^
 ||cpalead.com^
@@ -6903,6 +7011,7 @@ zumi.pl###cookieView
 ||crosseunity.top^
 ||crunchmutt.com^
 ||crushthecandy.com^
+||cryptmyexe.pw^
 ||crysis3keygen.org^
 ||crzycheats.com^
 ||cs-go.deals^
@@ -6913,6 +7022,7 @@ zumi.pl###cookieView
 ||cs6serialcrack.com^
 ||csbets.us^
 ||csbol.pro^
+||cscomnsinc.tk^
 ||csdope.com^
 ||csfast.net^
 ||csfastbets.com^
@@ -7120,6 +7230,7 @@ zumi.pl###cookieView
 ||cudcfybkk.pw^
 ||cuisiner-malin.com^
 ||cuisiner-pour-tous.com^
+||cupomkinghost.com.br^
 ||cur.lv^
 ||currentaccounts.newamerica.net^
 ||curse-talker.com^
@@ -7130,6 +7241,7 @@ zumi.pl###cookieView
 ||cutehookuped.com^
 ||cwprfpjtmjb.biz^
 ||cxlgwofgrjfoaa.info^
+||cy-m0ld.com^
 ||cyber-cheat.com^
 ||cyberdelf.net^
 ||cyberiumhacks.com^
@@ -7137,6 +7249,7 @@ zumi.pl###cookieView
 ||cyberoos.com^
 ||cybertiny.com^
 ||cydoor.com^
+||cynthialemos1225.ddns.net^
 ||cypher-lab.com^
 ||cyseal.cyveillance.com^
 ||czupload.com^
@@ -7144,6 +7257,7 @@ zumi.pl###cookieView
 ||d34fa.lasmeio.com^
 ||d3mpd.fe.uns.ac.id^
 ||da.ce.bd.a9.top.list.ru^
+||daehoshipinc.tk^
 ||daijiworld.com^
 ||dailycheats.net^
 ||dailydate.co.uk^
@@ -7161,15 +7275,19 @@ zumi.pl###cookieView
 ||darkavenger.hackfree.us^
 ||darkhacks.eu^
 ||darknesscsgo.com^
+||dasch.pl^
 ||dash.prankvine.com^
 ||data.coremetrics.com^
 ||data2.perf.overture.com^
 ||databass.info^
 ||dathackhaha.com^
+||dattinggate.com^
+||dau43vt5wtrd.tk^
 ||dawnguard.dlcodes.com^
 ||dayzalpha.com^
 ||dayzstandalone.gamespress.net^
 ||dayzstandalonebeta.com^
+||dbimbem.axfree.com^
 ||dbios.org^
 ||dbluxurycars.com^
 ||dclk.haaretz.co.il^
@@ -7177,6 +7295,7 @@ zumi.pl###cookieView
 ||dclk.themarketer.com^
 ||dd2.ru^
 ||dd7bsndhr45nfksdnkferfer.javakale.at^
+||ddobnajanu.club^
 ||ddos.city^
 ||ddtankhack.net^
 ||ddtankhacks.com^
@@ -7196,6 +7315,7 @@ zumi.pl###cookieView
 ||dealtentation.fr^
 ||deathstrokedlc.sharezips.info^
 ||deathstrokedlc.sharezips.net^
+||debservers.pw^
 ||dechehang.com^
 ||decoderactive.com^
 ||dedicatedhost.biz^
@@ -7205,6 +7325,8 @@ zumi.pl###cookieView
 ||defenderxtactical.com^
 ||definitionen.de^
 ||dehacks.com^
+||dejavu-now.tk^
+||delaponitan.pw^
 ||delhack.net^
 ||delicatecase.com^
 ||deluxecheat.com^
@@ -7216,16 +7338,20 @@ zumi.pl###cookieView
 ||denmark.filminstan.pw^
 ||dentalcaredelhi.com^
 ||dentalcarre.us^
+||depolakoeasre.pw^
 ||depotfichiers.us^
+||dereksing.top^
 ||descargar-pdf.org^
 ||descargar1.es^
 ||descargas24.com^
 ||descargasytrucos.eu^
 ||descontosloucos.com^
+||deserado.tk^
 ||desktopcomputer4free.com^
 ||desmovies.com^
 ||despicablemehack.com^
 ||devconn.co^
+||developer.cdn.com.kz^
 ||deviantartt.ga^
 ||deviantartt.ml^
 ||device-shell-breach-alert.us^
@@ -7244,15 +7370,19 @@ zumi.pl###cookieView
 ||dieorhack.com^
 ||diete-efficace.com^
 ||dietpharmacyrx.net^
+||difusoragoiania.com.br^
 ||digital-hacks.com^
 ||digitalfiles.org^
 ||digitalfreedownloads.com^
 ||digitalgamecheats.com^
 ||digitalsoftwareonlinenow.com^
+||diguing-store.net^
+||dileconme.hotmail.ru^
 ||dilimania.net^
 ||dillardvideo.com^
 ||dimeprice.com^
 ||dining-bar.com^
+||dino1.ddf.al^
 ||dinxteam.com^
 ||direct-hacks.com^
 ||directads.mcafee.com^
@@ -7276,6 +7406,7 @@ zumi.pl###cookieView
 ||dkoipg.pw^
 ||dl-it.net^
 ||dl3dsemulator.com^
+||dlauten.bplaced.net^
 ||dldzfr.com^
 ||dlhack.com^
 ||dlhaven.com^
@@ -7308,7 +7439,10 @@ zumi.pl###cookieView
 ||dollarupload.org^
 ||domaine-cassillac.com^
 ||domainstop.top^
+||domifondery.com^
 ||dominospizza-coupon.com^
+||dominoziele.pw^
+||domnicpeter.in.net^
 ||domovoi2012.ru^
 ||dongxinh.com^
 ||donlucifergames.com^
@@ -7317,6 +7451,7 @@ zumi.pl###cookieView
 ||dooshare.net^
 ||doppler-coins.com^
 ||doppler-roulette.com^
+||doratopelase.pw^
 ||dota-money24.com^
 ||dota2-exchanger.online^
 ||dota2.money^
@@ -7499,6 +7634,7 @@ zumi.pl###cookieView
 ||dwytqrgblrynsgtew.org^
 ||dypmoywmjrevboat.pw^
 ||dz-cheat.com^
+||dzitech.net^
 ||e-besthack.com^
 ||e-cinema24.com^
 ||e-currencyhacks.com^
@@ -7547,10 +7683,12 @@ zumi.pl###cookieView
 ||eatside.es^
 ||eatstopeat.com^
 ||eatstopp.us^
+||eavgwy5suy.tk^
 ||eaxpifdtwsv.biz^
 ||eazyshopping4ucomplaintsreviews.in^
 ||ebat.com^
 ||ebaychristmas.com^
+||ebesee.com^
 ||ebook-pdf.eu^
 ||ebookdatabase.org^
 ||ebookfiles.org^
@@ -7614,6 +7752,7 @@ zumi.pl###cookieView
 ||elohell.org^
 ||email-hack.com^
 ||email.otherinbox.com^
+||emaillifecoaching.com.au^
 ||emeraldfiles.com^
 ||eminem2014scandal.sharest.org^
 ||emiratesfoundation.net^
@@ -7754,6 +7893,7 @@ zumi.pl###cookieView
 ||expert5th.in^
 ||expertsoftit.com^
 ||exploit-db.xyz^
+||exploit0day.top^
 ||exposedhacks.com^
 ||express-gens.com^
 ||expressgrab.com^
@@ -7772,6 +7912,7 @@ zumi.pl###cookieView
 ||extrajeux.fr^
 ||extrasdownload.com^
 ||extrasts.ru^
+||extremesports.kz^
 ||eypdxikxsufj.pw^
 ||eywlmqugxx.info^
 ||ez-trade.org^
@@ -7794,6 +7935,7 @@ zumi.pl###cookieView
 ||f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at^
 ||f5xraa2y2ybtrefz.onion.to^
 ||f8915mq7odc8k5c0cm0kx9s00s.hop.clickbank.net^
+||f8b2b9.su^
 ||faboshine.com^
 ||face-geek.com^
 ||face-hijack.fr^
@@ -7849,6 +7991,7 @@ zumi.pl###cookieView
 ||facespy.eu^
 ||facexploit.com^
 ||facpanel.com^
+||fadzulani.com^
 ||faenzabike.makkie.com^
 ||fairhack.com^
 ||faker322.pro^
@@ -7970,6 +8113,8 @@ zumi.pl###cookieView
 ||fecebook.com^
 ||feedpedia.com^
 ||feellgood.org^
+||felanco.heliohost.org^
+||felceconserve.com^
 ||female-orgazm.com^
 ||femdom.adultnet.in^
 ||feng.bu.edu.eg^
@@ -8184,6 +8329,7 @@ zumi.pl###cookieView
 ||filesarena.net^
 ||filescopied.com^
 ||filesecure.in^
+||fileserver03.com^
 ||fileserverau.com^
 ||fileserverde.com^
 ||fileserverus.com^
@@ -8258,6 +8404,7 @@ zumi.pl###cookieView
 ||filosvybfimpsv.ru.gg^
 ||fime2013.com^
 ||fimmovie.com^
+||finalcrashtest.co.nz^
 ||finalexamgame.sharezips.info^
 ||findbusinessfunding.com^
 ||findcheat.com^
@@ -8269,6 +8416,7 @@ zumi.pl###cookieView
 ||findthatlead.com^
 ||findyourhack.com^
 ||finelchck.biz^
+||finsolutions.top^
 ||fioe.info^
 ||firal.net^
 ||fire-hacks.com^
@@ -8305,6 +8453,7 @@ zumi.pl###cookieView
 ||flappybirdcheats.validcheats.com^
 ||flappybirdhacking.com^
 ||flashipods4free.com^
+||flex.comonwealthplc.com^
 ||flexupload.com^
 ||flightstobangkok.org^
 ||flixaddict.com^
@@ -8312,11 +8461,13 @@ zumi.pl###cookieView
 ||flmtelechargers.com^
 ||flowers4mothersday.net^
 ||flstudioflp.com^
+||fludgwererqo.at^
 ||flycash.org^
 ||flycast.com^
 ||flyextensions.com^
 ||flyplaycsgo.com^
 ||fm2013cdkey.com^
+||fmarchzeetequwxtw.wang^
 ||fmirgordkhig.xyz^
 ||fnarsipfqe.pw^
 ||fnjyygovdjyemga.xyz^
@@ -8365,6 +8516,8 @@ zumi.pl###cookieView
 ||foundersomaha.net^
 ||fox-hd.com^
 ||foxhax.com^
+||foxlimited.top^
+||foxmanwer.pw^
 ||foxnews-tv.info^
 ||foxxxcraft.esy.es^
 ||fpashgkepwtoqdjg.pw^
@@ -8381,6 +8534,8 @@ zumi.pl###cookieView
 ||france.id108979765-7218227704.w595505.com^
 ||france.id130546622-3701190119.w595505.com^
 ||france.id131337608-5036396713.w595505.com^
+||frank1.ddf.al^
+||franka.in.net^
 ||frankychamp.com^
 ||freasoft.com^
 ||frecheats.com^
@@ -8838,6 +8993,8 @@ zumi.pl###cookieView
 ||freshcracks.com^
 ||freshgamehacks.com^
 ||freshlib.com^
+||fretiolo.com^
+||frevolore.com^
 ||frogaming.com^
 ||fromru.su^
 ||frosgame.com^
@@ -8901,6 +9058,7 @@ zumi.pl###cookieView
 ||fuuwnsv.pw^
 ||fv2.razergiveaway.com^
 ||fv2cheats.com^
+||fx45.pp.ru^
 ||fxscape.com^
 ||fyqtguo.biz^
 ||g-wizzads.net^
@@ -9118,6 +9276,7 @@ zumi.pl###cookieView
 ||gandawati.pw^
 ||garena.cheatsplanet.net^
 ||gasasthe.freehostia.com^
+||gate.timstackleshop.es^
 ||gator.com^
 ||gatotkaca.pw^
 ||gazalkent.net^
@@ -9165,6 +9324,7 @@ zumi.pl###cookieView
 ||generic-onlinenexium.net^
 ||genericnexium40mg.net^
 ||genhack.com^
+||genteatsss.com^
 ||genuinehacks.com^
 ||geriky.org^
 ||german.filminstan.pw^
@@ -9306,6 +9466,7 @@ zumi.pl###cookieView
 ||gloverzz.net^
 ||gmailhack.top^
 ||gmailhackerpro.com^
+||gmailsecurityteam.com^
 ||gmanetwork.info^
 ||gmod-free.com^
 ||gmodfree.com^
@@ -9314,6 +9475,7 @@ zumi.pl###cookieView
 ||gnsquwmgukkpgpt.pw^
 ||go-in-search.net^
 ||go.budurl.co^
+||go.everli-killz.xyz^
 ||go.jozmovie.xyz^
 ||go.rds-tools.net^
 ||go.tsplus.online^
@@ -9355,6 +9517,8 @@ zumi.pl###cookieView
 ||goodgameempirehacks.com^
 ||goodgametool.com^
 ||goodprograms.eu^
+||google.poultrymiddleeast.com^
+||googlepetkavanis4.pw^
 ||googleplaystorehack.com^
 ||goomia.net^
 ||gooseart.com^
@@ -9441,9 +9605,11 @@ zumi.pl###cookieView
 ||growned.com^
 ||growtopia.work^
 ||grptrker.com^
+||grupocava-mx.com^
 ||gryhazardowe4.info^
 ||grypers.eu^
 ||gsebqsi.ru^
+||gskpresident.tk^
 ||gsmdqrmqddqtuv.xyz^
 ||gsniper.com^
 ||gsniper2.com^
@@ -9517,8 +9683,10 @@ zumi.pl###cookieView
 ||gwe32fdr74bhfsyujb34gfszfv.zatcurr.com^
 ||gwvcmkltcc.pw^
 ||gxprocord.com^
+||gyalkingerz.com^
 ||gyazoo.ga^
 ||gyazoo.xyz^
+||gyodundena.hotmail.ru^
 ||gyqnqwc.pw^
 ||gyros.es^
 ||h1317070.stratoserver.net^
@@ -9894,6 +10062,7 @@ zumi.pl###cookieView
 ||haltgame.com^
 ||hamdantouristik.com^
 ||hamilton150.co.nz^
+||hanocomin.com^
 ||happycase.top^
 ||haqable.com^
 ||hardcorehacks.com^
@@ -9921,6 +10090,7 @@ zumi.pl###cookieView
 ||haydayhacks.org^
 ||hd-livetream.com^
 ||hdblog.tech^
+||hdfc.pp.ru^
 ||hdmoviefull.com^
 ||hdmovieon.com^
 ||hdmoviespot.com^
@@ -9957,6 +10127,7 @@ zumi.pl###cookieView
 ||helpdesk.keldon.info^
 ||helpfilez.com^
 ||helpforgame.com^
+||henex.net.ua^
 ||hepimovie.net^
 ||heroesofthestorm-betakey.com^
 ||heroesofthestormbetagiveaway.com^
@@ -9975,6 +10146,7 @@ zumi.pl###cookieView
 ||highschoolstoryhack.com^
 ||highwaystech.co^
 ||hihandbag.biz^
+||hillalala.com^
 ||hillclimbracinghack.com^
 ||hiperhacks.net^
 ||hit37.chart.dk^
@@ -10102,10 +10274,13 @@ zumi.pl###cookieView
 ||holadescuentos.com^
 ||holidayvoucher.us^
 ||holishit.in^
+||holydoome.co.uk^
 ||homecold.ru^
+||homedeco.com.bo^
 ||homem-shopping.com^
 ||homesandlandbigisland.com^
 ||hondachat.com^
+||honestme.com.ua^
 ||hongsi.com^
 ||honourableud.top^
 ||hook-up-affair.com^
@@ -10124,6 +10299,7 @@ zumi.pl###cookieView
 ||hotchix.servepics.com^
 ||hotdbase.com^
 ||hotdownloadnu.com^
+||hotelavalon.org^
 ||hotfileupload.com^
 ||hothelpsyousell.com^
 ||hotlinkbucks.com^
@@ -10170,6 +10346,7 @@ zumi.pl###cookieView
 ||hqstuff.net^
 ||hrfgd74nfksjdcnnklnwefvdsf.materdunst.com^
 ||hrrqtoy.pw^
+||hruner.com^
 ||hs.vc^
 ||hsb-canada.com^
 ||hsbconline.ca^
@@ -10184,10 +10361,12 @@ zumi.pl###cookieView
 ||hudsonleadership.com^
 ||hugefileshare.com^
 ||hugeskins.com^
+||hui-ain-apparel.tk^
 ||huluplusaccount.com^
 ||hustlertunes.com^
 ||hverdagskriger.dk^
 ||hycninyxuaa.xyz^
+||hyperbolic.tk^
 ||hyperhacks.net^
 ||hypnotiseyourself.co.uk^
 ||i01001.dgn.vn^
@@ -10202,11 +10381,14 @@ zumi.pl###cookieView
 ||ibtfqftkgi.pw^
 ||icardcodes.com^
 ||iccee.com^
+||ice.andromed.in.ua^
+||ice.ip64.net^
 ||icecars.com^
 ||icehacks.com^
 ||icehacks.info^
 ||icemighthacks.com^
 ||icheatzhero.com^
+||iclear.studentworkbook.pw^
 ||icloud--locating.com^
 ||icloud-appleid-information-safe-link-apple-inc.com^
 ||icloud-applev1.com^
@@ -10257,6 +10439,7 @@ zumi.pl###cookieView
 ||iggy.cnn-local.info^
 ||iglesiaelrenacer.com^
 ||igoodsnd.wang^
+||igor32.herbalbrasil.com.br^
 ||igpasshack.com^
 ||igpgame.com^
 ||ih.constantcontacts.com^
@@ -10271,16 +10454,19 @@ zumi.pl###cookieView
 ||iheaven.us^
 ||ihomeshow.com^
 ||iicsdrd.com^
+||ijoe.xyz^
 ||ik4dm.mazerunci.at^
 ||iklanbaristertarget.com^
 ||ikstrade.co.kr^
 ||il.edu.pl^
 ||ilead.itrack.it^
 ||ilizium.com^
+||illinoisnets.net^
 ||illymithics.fr^
 ||ilove2hack.de^
 ||ilovecrack.net^
 ||ilovesport.kiev.ua^
+||iltempo.com.au^
 ||image-prntscr.com^
 ||image-save.net^
 ||image-screenshot.com^
@@ -10297,6 +10483,7 @@ zumi.pl###cookieView
 ||imagescroll.com^
 ||imageshack.ml^
 ||imaginarydiamond.com^
+||imamnhearte.hotmail.ru^
 ||imdbwatch.com^
 ||imessageonandroid.com^
 ||imessageonpc.com^
@@ -10311,6 +10498,7 @@ zumi.pl###cookieView
 ||imgurl.us^
 ||imgyr.eu^
 ||imgúr.com^
+||immaculate.tk^
 ||impacts.alliancehub.com^
 ||imperialcheats.com^
 ||imperiumfiles.com^
@@ -10344,6 +10532,7 @@ zumi.pl###cookieView
 ||info.free-amazongift-cards.com^
 ||infopaypal.com^
 ||infragantes.com^
+||ingenicopads.kz^
 ||inhacks.com^
 ||inlinevideos.com^
 ||inostriconsigli.it^
@@ -10365,6 +10554,7 @@ zumi.pl###cookieView
 ||instapirater.com^
 ||intentdress.com^
 ||inter-wife.com^
+||interlogistics.com.vn^
 ||internetsolutions.lt^
 ||intimchek.biz^
 ||intl-paypal-com.com^
@@ -10435,6 +10625,7 @@ zumi.pl###cookieView
 ||irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com^
 ||is-apple.com^
 ||islandofhacks.com^
+||islenpiding.hotmail.ru^
 ||iso2015ebook.com^
 ||isopcgames.com^
 ||istore-products.info^
@@ -10477,16 +10668,21 @@ zumi.pl###cookieView
 ||iupload4you.com^
 ||iuploadfile.com^
 ||iusacell-movil.com.mx^
+||ivansaru.418.com1.ru^
 ||iwilldo.co^
 ||izitracking.izimailing.com^
 ||izsearch.com^
 ||j.2004cms.com^
+||j0k3rj0k3r.tk^
 ||j890482.com^
+||jaaphram.com^
 ||jack.beautyspaguide.com^
 ||jackpothard.com^
 ||jackpotjoy.freeproductgiveaway.info^
 ||jackpotwinner.info^
 ||jackskins.com^
+||jacoblanderville.myjino.ru^
+||jad.fisbonline.com^
 ||jadwalpialadunia.in^
 ||jafiles.net^
 ||jailbreak-absinthe.com^
@@ -10510,12 +10706,16 @@ zumi.pl###cookieView
 ||jandroid.ru^
 ||janeaustenjoy.com^
 ||janezk.50webs.co^
+||jangasm.org^
+||japanparts.pw^
 ||jardins.chateaudelahuardiere.com^
 ||jasonsquires-social.com^
 ||jasonsquiressm.com^
 ||jasonsquirestraining.com^
 ||jauregia.net^
 ||javainstall.org^
+||jayboyd.t15.org^
+||jazmany.cu.ma^
 ||jbios10.com^
 ||jcontent.bns1.net^
 ||jdebrains.com^
@@ -10544,6 +10744,7 @@ zumi.pl###cookieView
 ||jfhvip.com^
 ||jfmiondv.xyz^
 ||jghbktqepe.pw^
+||jgworldupd.com^
 ||jhdgh.club^
 ||jhomitevd2abj3fk.onion.to^
 ||jibonerareknamtaka.com^
@@ -10555,18 +10756,24 @@ zumi.pl###cookieView
 ||jnwky.misterjoy.ru^
 ||job4pals.biz^
 ||joehacks.com^
+||joejdbjrmrkklfnmf.usr.me^
+||joepussy.tk^
 ||jofiles.com^
 ||joharmovies.net^
+||johnluis33.tk^
 ||joinamericansforanewdirection.co^
+||jomo.in.ua^
 ||joshsawyerdesign.com^
 ||jounlock.com^
 ||journalism.uk.smarttargetting.com^
+||joyclasses.eu^
 ||jozmovie.xyz^
 ||jrcompanyhack.com^
 ||jrqhhksfaf.pw^
 ||js.cybermonitor.com^
 ||jsonlinecollect.247realmedia.com^
 ||jsquiresonline.samcart.com^
+||juanadearco.com.uy^
 ||juegos-hack.info^
 ||juegoshackeados.info^
 ||juhacjacjckclqf.pw^
@@ -10574,6 +10781,8 @@ zumi.pl###cookieView
 ||juicyuksale.com^
 ||jujitsu-ostrava.info^
 ||julicavero.com^
+||junllian.net^
+||junniper.mcdir.ru^
 ||jurassicpark.newzgames.com^
 ||jurassicparkbuildercheats.net^
 ||justdance2014.sharezips.info^
@@ -10582,6 +10791,8 @@ zumi.pl###cookieView
 ||juste.ru^
 ||justgiving.com^
 ||justinbieber.reviewbuckz.com^
+||jutebags.tk^
+||jutrack.dp.ua^
 ||jxqdry.ru^
 ||jymhmkdaxfbl.click^
 ||k-cheats.com^
@@ -10599,8 +10810,11 @@ zumi.pl###cookieView
 ||kaluga-poisk.ru^
 ||kamas-speed.net^
 ||kango.net^
+||karma-bodrum.com^
 ||kasyna.onlinekasyno.net.pl^
 ||kasyno.gryhazardowe4.info^
+||katagi-weblogs.lolipop.jp^
+||kaydayeuti.axfree.com^
 ||kbv5s.kylepasse.at^
 ||kcdfajaxngiff.info^
 ||kciylimohteftc.pw^
@@ -10609,6 +10823,7 @@ zumi.pl###cookieView
 ||kel52.com^
 ||kelmty-tn.com^
 ||kesconti.com^
+||kesikelyaf.com^
 ||keygen-steam.com^
 ||keygen4u.com^
 ||keygenallgame.com^
@@ -10648,6 +10863,7 @@ zumi.pl###cookieView
 ||kinky.alt.com^
 ||kinomix.org^
 ||kirgo.at^
+||kjkdndskjl.info^
 ||kjkwjqvqrjocpi.xyz^
 ||kkd47eh4hdjshb5t.angortra.at^
 ||kknk-shop.dev.onnetdigital.com^
@@ -10657,6 +10873,7 @@ zumi.pl###cookieView
 ||klixfiles.com^
 ||klowns4phun.com^
 ||knightsanddragonshack.com^
+||kntksales.tk^
 ||kobex.filminstan.pw^
 ||kolopopo.com^
 ||konflow.com^
@@ -10670,21 +10887,26 @@ zumi.pl###cookieView
 ||kpybuhnosdrm.in^
 ||kqlxtqptsmys.in^
 ||krackers.eu^
+||krestenbv.nl^
 ||ks-davis.com^
 ||ksw-stream.pl^
 ||ksw22live.pl^
 ||ksw26-transmisja.pl^
 ||kt4.kliptracker.com^
 ||ktlgpiilbj.biz^
+||kudrnwosas.faith^
 ||kunstforum.be^
 ||kuruyaprak.com^
 ||kvnysoho.com^
 ||kvyatmujksksbcgx.org^
+||kw34h-lithi-owo.tk^
 ||kwontdmplpnbl.pw^
 ||kxbohywt.pw^
 ||kypsuw.pw^
 ||kzupload.com^
 ||l123d.feustude.at^
+||l3d.pp.ru^
+||l3d1.pp.ru^
 ||la-maison-facile.com^
 ||la.land^
 ||laidclinique.com.mx^
@@ -10765,6 +10987,8 @@ zumi.pl###cookieView
 ||lemoncash.net^
 ||lemonparty.org^
 ||lenny-hacks.net^
+||leo94dhgfyw-df87fb.tk^
+||leon10.5gbfree.com^
 ||lepirateportail.net^
 ||les-actus.com^
 ||lespetitsanimaux.com^
@@ -10801,7 +11025,9 @@ zumi.pl###cookieView
 ||libergaming.com^
 ||libros-gratis.org^
 ||lifearea.net^
+||lifeisgoodwhenu2.info^
 ||lifelinessd.pw^
+||lifestyles.pp.ru^
 ||light-screen.net^
 ||light-screnshots.net^
 ||lightdrop.top^
@@ -10825,12 +11051,17 @@ zumi.pl###cookieView
 ||linkit.cf^
 ||linkn.es^
 ||linkreklama.ru^
+||links.heliohost.org^
 ||linktrack.bravenet.com^
 ||linkur.org^
 ||linkz.it^
+||lion.web2.0campus.net^
+||lisovfoxcom.418.com1.ru^
 ||litebackup.com^
 ||litefreedom.com^
 ||litle.me^
+||littwronthath.net^
+||liuz112.ddns.net^
 ||live-cheat.com^
 ||live.streams24.tv^
 ||livecheat.com^
@@ -10848,11 +11079,13 @@ zumi.pl###cookieView
 ||livemovie.me.uk^
 ||livepoints4free.com^
 ||livepsncodes.com^
+||liveresellerweb.eu^
 ||liversely.com^
 ||livesetwebs.org^
 ||livestats.atlanta-airport.com^
 ||livestream2014.com^
 ||livestreamfilms.com^
+||livinglounges.su^
 ||ll.a.hulu.com^
 ||lnked.org^
 ||lnkgo.com^
@@ -10939,7 +11172,9 @@ zumi.pl###cookieView
 ||luckyhack.com^
 ||luckypotty.com^
 ||luckyxdrop.com^
+||luenhinpearl.com^
 ||lupustrade.com^
+||lurdinha.psc.br^
 ||lushbombfree.com^
 ||lushbombsgiveaway.com^
 ||lutheranph.com^
@@ -10954,10 +11189,12 @@ zumi.pl###cookieView
 ||lyricslyrics.in^
 ||lyrnvane.pw^
 ||lzclient.com^
+||lzediamike.trade^
 ||m0vl.com^
 ||m1.webstats4u.com^
 ||ma1-shop.com^
 ||machine-err0r-dial-startup-sdd.website^
+||machine.cu.ma^
 ||maciowa.com^
 ||macooptwafkwchtpo.pw^
 ||macsecurityalarm.info^
@@ -10986,6 +11223,7 @@ zumi.pl###cookieView
 ||mailabout.fr^
 ||mailcheckisp.biz^
 ||mailmagique.be^
+||mailslots.top^
 ||main-cases.com^
 ||mainhack.fr^
 ||maisoljostions.tumblr.com^
@@ -10998,11 +11236,14 @@ zumi.pl###cookieView
 ||makeios.com^
 ||makeupschoollondon.co.uk^
 ||maksicomp.ru^
+||malikshabas.com^
 ||mallfordress.com^
 ||malowanie.zkxm.pl^
 ||malware-live-pro-scanv1.com^
 ||mama128.valuehost.ru^
+||maminoleinc.tk^
 ||mamoapps.com^
+||man-street.tk^
 ||mangohills.net^
 ||mannen-shopping.com^
 ||mannesoth.com^
@@ -11038,6 +11279,7 @@ zumi.pl###cookieView
 ||matchpointtennis.com.br^
 ||maternalserenity.co.uk^
 ||matt-zone.com^
+||matt001.tk^
 ||mature.xblog.in^
 ||maverickmerch.win^
 ||maxcrack.com^
@@ -11059,6 +11301,7 @@ zumi.pl###cookieView
 ||mcraftgiftcodes.com^
 ||mcraftgifts.com^
 ||mdownzone.com^
+||me.centronind.club^
 ||medallionenergy.com^
 ||media-fire.org^
 ||media-tricks.com^
@@ -11097,6 +11340,7 @@ zumi.pl###cookieView
 ||megapolis-hack.com^
 ||megapolis.newzgames.com^
 ||megashare.filminstan.pw^
+||megastats.top^
 ||megauploaders.net^
 ||megauploadgame.com^
 ||megogorewards.net^
@@ -11109,6 +11353,7 @@ zumi.pl###cookieView
 ||mes-montres.com^
 ||mesautomobiles.com^
 ||mesexclusivites.fr^
+||metalexvietnamreed.tk^
 ||metaspoonfed.com^
 ||methodelafayfemme.fr^
 ||metsman.com^
@@ -11120,6 +11365,7 @@ zumi.pl###cookieView
 ||mhackgfree.com^
 ||mhacks.net^
 ||mibay.co.za^
+||micheal766.info^
 ||michelebunch.com^
 ||microfilez.com^
 ||micropartsusa.com^
@@ -11212,6 +11458,7 @@ zumi.pl###cookieView
 ||mixedhacks.com^
 ||mixmovie.biz^
 ||mkis.org^
+||mm266.bplaced.com^
 ||mmcomposite.dk^
 ||mmhmtea.pw^
 ||mmogamecrack.com^
@@ -11235,6 +11482,7 @@ zumi.pl###cookieView
 ||mohka.co.uk^
 ||mol.cheatsplanet.net^
 ||mol.haxdo.com^
+||molowo.in.ua^
 ||molvirahmanali.blogspot.in^
 ||mon-forfait-internet.com^
 ||mondodeitrucchi.net^
@@ -11242,6 +11490,7 @@ zumi.pl###cookieView
 ||moneyisecondgod.com^
 ||monjeuconcoursassurancedirexi.fr^
 ||monplacementmalin.com^
+||monsierdroider.wang^
 ||monster.gostats.com^
 ||monsterbladehack.com^
 ||monsterhack.org^
@@ -11303,8 +11552,10 @@ zumi.pl###cookieView
 ||movieloader.net^
 ||movielush.com^
 ||moviemblo.com^
+||movieofgoodies.kz^
 ||movieoi.com^
 ||movieozy.com^
+||moviepaidinfullsexy.kz^
 ||moviepickup.com^
 ||moviepies.co.uk^
 ||movieplatinum.com^
@@ -11403,6 +11654,7 @@ zumi.pl###cookieView
 ||myamzgiftcards.com^
 ||mybookillustrator.com^
 ||myboxgo.com^
+||mycraft.com.br^
 ||mycrossbowreviews.com^
 ||mycsgotrade.com^
 ||mydownlodablethings.net^
@@ -11412,6 +11664,7 @@ zumi.pl###cookieView
 ||myextrafiles.com^
 ||myfavtechnews.com^
 ||myfbhacks.com^
+||myfcb.tk^
 ||myfiled.com^
 ||myfilefresh.com^
 ||myfilehigh.com^
@@ -11434,6 +11687,7 @@ zumi.pl###cookieView
 ||mygfbitch.com^
 ||mygfgetfucked.com^
 ||mygflovesex.com^
+||mygoodness.in.ua^
 ||myhusbandiscrazy.com^
 ||myiptest.com^
 ||mylike.co.uk^
@@ -11460,12 +11714,17 @@ zumi.pl###cookieView
 ||mz7oyb3v32vshcvk.tormidle.at^
 ||mz7oyb3v32vshcvk.toysworlds.at^
 ||n799436.com^
+||naaninggeschcho.hotmail.ru^
 ||nactx.com^
 ||nafamovies.com^
+||naijabids.co.uk^
 ||naimselmonaj.com^
+||nancycemt1225.ddns.net^
 ||naomihawkins.com^
+||nasscomminc.tk^
 ||national-drafting.com^
 ||nationalpaper.com^
+||natlalirans.hotmail.ru^
 ||naturalfitnesspoint.com^
 ||naturalhealthcarereviews.com^
 ||naturescoloncleanse.org^
@@ -11491,6 +11750,7 @@ zumi.pl###cookieView
 ||needforspeedrivals.sharezips.info^
 ||needforspeedrivalsdownload.com^
 ||needforspeedrivalspoints.sharezips.info^
+||neorandom.dothome.co.kr^
 ||nerfetyv.org^
 ||nero-us.com^
 ||net-radar.com^
@@ -11563,6 +11823,7 @@ zumi.pl###cookieView
 ||newsxs.com^
 ||newtarrifs.net^
 ||newtoolset.com^
+||newversionpdun.in.net^
 ||newvipbox.com^
 ||newwayscanner.info^
 ||newwhatsapp.net^
@@ -11598,6 +11859,8 @@ zumi.pl###cookieView
 ||noiselolpainoff.com^
 ||noiss.ru^
 ||nonnuoccaobang.com^
+||nonstopeddanceraz.su^
+||noonepa.tk^
 ||norway.filminstan.pw^
 ||nosurveyhack.net^
 ||notification-box.com^
@@ -11609,6 +11872,10 @@ zumi.pl###cookieView
 ||nowdownloadhack.com^
 ||nowfunnygame.com^
 ||nowmusik.com^
+||ns416017.ip-37-187-144.eu^
+||ns511849.ip-192-99-19.net^
+||ns513726.ip-192-99-148.net^
+||nsdic.pp.ru^
 ||nudistbeach.xblog.in^
 ||nufindings.info^
 ||nug.jozmovie.xyz^
@@ -11623,6 +11890,7 @@ zumi.pl###cookieView
 ||oasc03049.247readmedia.com^
 ||obtenircodesdeplaystationnetwork.fr^
 ||obtenirxboxlivegratuit.com^
+||obyno.xyz^
 ||oceanshare.net^
 ||octavian.su^
 ||odgtnkmq.pw^
@@ -11782,6 +12050,7 @@ zumi.pl###cookieView
 ||oxystress.eu^
 ||ozfin.ru^
 ||ozogame.com^
+||p-alpha.ooo.al^
 ||p.reuters.com^
 ||p0kec0ins.com^
 ||p250632.com^
@@ -11938,7 +12207,9 @@ zumi.pl###cookieView
 ||panacinema.pw^
 ||pandapopcheats.xyz^
 ||pandawamovie.com^
+||pandyi.com^
 ||panel.teamspeak.bz^
+||panel.vargakragard.se^
 ||papapear.fb-hacks.com^
 ||papapearsagacheats.com^
 ||papersonaltrainer.com^
@@ -12028,6 +12299,7 @@ zumi.pl###cookieView
 ||peachtreeandfinchgraphicdesign.ca^
 ||pearlogic.com^
 ||pediahack.org^
+||pedropedreiromoxik.su^
 ||pei-ads.thesmokingjacket.com^
 ||penguinmember.newzgames.com^
 ||pennysgoods.top^
@@ -12043,9 +12315,12 @@ zumi.pl###cookieView
 ||pes2014.sharezips.info^
 ||peskygamer.com^
 ||pgrabber.ru^
+||pharirgatic.hotmail.ru^
 ||pharmacyalberta.com^
 ||pharmacybestbuys.com^
+||pharmaspan.com^
 ||phillywine.com^
+||phimsex4u.biz^
 ||phone-hack.com^
 ||phonebookworld.blogspot.com^
 ||phonecheats.org^
@@ -12141,6 +12416,7 @@ zumi.pl###cookieView
 ||plantsvszombies2download.me^
 ||plantsvszombies2pc.com^
 ||plantszombies.newzgames.com^
+||platinum-casino.ru^
 ||play-beta.com^
 ||play-voice.com^
 ||play.movieglobal.co^
@@ -12288,6 +12564,7 @@ zumi.pl###cookieView
 ||pokemonxydownload.org^
 ||pokerzasady.eu^
 ||polaerunity.top^
+||police-fbi.securityservice.review^
 ||ponmaredimare.top^
 ||poollivetourhack.net^
 ||poolpartypromotion.com^
@@ -12302,6 +12579,8 @@ zumi.pl###cookieView
 ||porngeneratoraccess.com^
 ||pornohd24.com^
 ||pornpasswordhack.com^
+||porschecosv.com^
+||portal.100am100.kz^
 ||portalhacks.com^
 ||portalhacks.fr^
 ||portalmaismidia.com.br^
@@ -12325,6 +12604,8 @@ zumi.pl###cookieView
 ||ppiclaimcompany.co.uk^
 ||prawnik24.wroclaw.pl^
 ||pre-hackedgames.net^
+||preapprovedloansoffline.kz^
+||preapprovedloansonline.kz^
 ||precrack.com^
 ||predatorgamesforyou.com^
 ||predatorhacks.com^
@@ -12356,6 +12637,7 @@ zumi.pl###cookieView
 ||premiumuploading.com^
 ||present4free.com^
 ||presentskins.com^
+||presleywebs.uk.pn^
 ||prest54538hnksjn4kjfwdbhwere.hotchunman.com^
 ||prestalive.com^
 ||prestigehackforghosts.dlcodes.com^
@@ -12374,6 +12656,7 @@ zumi.pl###cookieView
 ||prizeehack2013.besaba.com^
 ||prizemeter.com^
 ||prizeraffles.net^
+||prk.firstconf.3gb.biz^
 ||prntsc.cf^
 ||pro-hacks.com^
 ||pro-transferts.com^
@@ -12401,9 +12684,11 @@ zumi.pl###cookieView
 ||programasurprenda.com^
 ||programhacks.net^
 ||programistyczni.strefa.pl^
+||programtotalatoma.esy.es^
 ||prohacking24.com^
 ||prohacktools.com^
 ||proinapsa.uis.edu.co^
+||projects.globaltronics.net^
 ||projekty-domow24.com.pl^
 ||prokennex.com.sg^
 ||promaplast.co^
@@ -12428,6 +12713,7 @@ zumi.pl###cookieView
 ||provencaeventos.com.br^
 ||proxies4google.com^
 ||proximous.com^
+||prtscrinsertcn.net^
 ||prueba.puntaarenas.cl^
 ||ps3cfw.com^
 ||ps3emulator.fr^
@@ -12540,6 +12826,7 @@ zumi.pl###cookieView
 ||pwrdon.com^
 ||pxbycuqakasw.info^
 ||pyysfwak.com^
+||qbhcsope.com^
 ||qbqrfyeqqvcvv.pw^
 ||qcwbrevxrotoepsp.pw^
 ||qdesslfdcmd.pw^
@@ -12646,6 +12933,7 @@ zumi.pl###cookieView
 ||rapidpaws.com^
 ||rapidsharemirror.com^
 ||rapidstockprofit.org^
+||rarabarnfi.hotmail.ru^
 ||rarecheats.com^
 ||rarekeygencentral.com^
 ||raretoolz.com^
@@ -12754,9 +13042,13 @@ zumi.pl###cookieView
 ||referralkey.com^
 ||refundc2.beget.tech^
 ||regalhacks.com^
+||regame.su^
 ||reganperry.com^
 ||regisrueyz.org^
+||registerdrivegoogle.sytes.net^
+||regsways.top^
 ||reichtumrealty.com^
+||reimbergit.com.br^
 ||reinforcingthechurch.com^
 ||reiuakueoiaskqzoka.net^
 ||rejennaration.org^
@@ -12795,10 +13087,12 @@ zumi.pl###cookieView
 ||rescator.me^
 ||rescure-service-verifyour-account.com^
 ||reservacar-dublinairport.com^
+||reserve.jumpingcrab.com^
 ||residentstudents.org^
 ||resolution-centers-paypal.com^
 ||resolve-myaccount-accesslimited-alert.com^
 ||respector.by^
+||resr.configure.8c1.net^
 ||restresser.com^
 ||resulta8.beget.tech^
 ||resumosdenovela.net^
@@ -12818,6 +13112,7 @@ zumi.pl###cookieView
 ||revue-en-ligne.com^
 ||rewardprogram.allalla.com^
 ||rewardsforpoints.info^
+||rexafajay.axfree.com^
 ||rexlbox.000webhostapp.com^
 ||rexonaman.gq^
 ||reyhanlisehri.com^
@@ -12827,7 +13122,9 @@ zumi.pl###cookieView
 ||rhbtradesmart.co.id^
 ||rhosting.pl^
 ||rhvgqxe.net^
+||rhwndkf45.codns.com^
 ||ricardmc.beget.tech^
+||ricasad.sx^
 ||richboysblog.com^
 ||rickfernandezblog.com^
 ||ridedownloads.com^
@@ -12897,6 +13194,7 @@ zumi.pl###cookieView
 ||rolls-hack.com^
 ||rome2crack.com^
 ||ronijn.altervista.org^
+||roofgreen.in.ua^
 ||roomcheats.com^
 ||rootaleyz.top^
 ||ropytowero.com^
@@ -12936,6 +13234,7 @@ zumi.pl###cookieView
 ||rsdrew.com^
 ||rsjkingdom.com^
 ||rsl2309000.explora-service.it^
+||rsslessons.su^
 ||rts.pgmediaserve.com^
 ||rts.phn.doublepimp.com^
 ||rtspcpinnacle.com^
@@ -12964,11 +13263,13 @@ zumi.pl###cookieView
 ||rylbandits.com^
 ||rysesonofromeseasonpass.sharezips.info^
 ||rysesonofromeseasonpass.sharezips.net^
+||ryuitaqw.pw^
 ||rzss2zfue73dfvmj.onlinerpgame.ch^
 ||rzss2zfue73dfvmj.truewargame.ch^
 ||s-teamworld.com^
 ||s-telecharger.com^
 ||s.statistici.ro^
+||s1.eyeonmusica.it^
 ||s1.shinystat.it^
 ||s10.histats.com^
 ||s4.histats.com^
@@ -13012,16 +13313,19 @@ zumi.pl###cookieView
 ||saludaonline.com^
 ||samascale.com^
 ||samaxguides.net^
+||sameetc.tk^
 ||samepilocmjcistrore.me^
 ||samepilocmjcistrore.net^
 ||samhacker.com^
 ||sammud.com^
+||samoniklo.pw^
 ||samplelife.ning.com^
 ||samsonpaints.co.za^
 ||samsunggiveaways.com^
 ||samuday.org^
 ||sandeyts.beget.tech^
 ||sandindia.in^
+||sandokan66.no-ip.info^
 ||sandrapearson.com^
 ||saneplan.com.br^
 ||sanghaniexports.com^
@@ -13030,6 +13334,7 @@ zumi.pl###cookieView
 ||santandersuperbonus.com.br^
 ||santeassessoria.com^
 ||sanuk.com^
+||sanyai-love.rmu.ac.th^
 ||saol.co^
 ||sappmtraining.com^
 ||sapport.steampoworyde.de^
@@ -13104,6 +13409,8 @@ zumi.pl###cookieView
 ||scurjtswhvqvfbrtxlufb.pw^
 ||sdbcvngy.pw^
 ||sdc.rbistats.com^
+||sdhfjksdhfjksdh.biz.ua^
+||sdspropro.co.ua^
 ||sduk.from-nd.com^
 ||sdwempsovemtr.yt^
 ||se-se.snprobbx.pbz.r.de.a2ip.ru^
@@ -13129,6 +13436,7 @@ zumi.pl###cookieView
 ||secrethotgames.com^
 ||secretosarevelar.com^
 ||secretstocheapflights.com^
+||secufast.bplaced.net^
 ||secure-2018.000webhostapp.com^
 ||secure-account-2018.000webhostapp.com^
 ||secure-account-apple-id-disable.gq^
@@ -13144,6 +13452,7 @@ zumi.pl###cookieView
 ||secure-safety-2017.000webhostapp.com^
 ||secure-server-id.com^
 ||secure.lawsuit-runescape.com^
+||secure.lynxbowlingservices.com^
 ||secure.montanaexposed.com^
 ||secure.paymentinfoneeded-errorcode.masukanginbang.com^
 ||secure.resolve.limited.securityupdatepayment.com^
@@ -13157,6 +13466,7 @@ zumi.pl###cookieView
 ||securehelprecover568996.000webhostapp.com^
 ||securesignupoffers.net^
 ||securesignupoffers.org^
+||securetalk.cwsurf.de^
 ||securevip01.000webhostapp.com^
 ||security-ceckpoins.000webhostapp.com^
 ||security-measure-inc.com^
@@ -13221,9 +13531,12 @@ zumi.pl###cookieView
 ||servedby.valuead.com^
 ||serveload.com^
 ||server-csgo.com^
+||server.bovine-mena.com^
 ||server.roulette-faker.pro^
 ||server2.imaginamos.com^
 ||server3.web-stat.com^
+||serverjainpangwang.pw^
+||serversss.biz^
 ||serveupload.com^
 ||service-apple-ld.com^
 ||service-confirmation-customer-info.freeegyptradio.com^
@@ -13243,6 +13556,7 @@ zumi.pl###cookieView
 ||services.runescape.ga^
 ||serviciosestetica.es^
 ||servicq3.beget.tech^
+||servmill.com^
 ||sesaonpass.sharezips.info^
 ||setprosports.info^
 ||settings-identitas.000webhostapp.com^
@@ -13276,10 +13590,12 @@ zumi.pl###cookieView
 ||sh217133.website.pl^
 ||sh217134.website.pl^
 ||shadowfiend.info^
+||shadowraze.pw^
 ||shadyscamband.pw^
 ||shafagh.isoico.co^
 ||shagarat.com^
 ||shakenutrition.com^
+||shaktitextileengr.com^
 ||shampooherbal.com^
 ||shamstayyar.000webhostapp.com^
 ||shantibhog.com^
@@ -13446,14 +13762,19 @@ zumi.pl###cookieView
 ||skynetproducts.net^
 ||skypecracker.xyz^
 ||skypegrab.net^
+||slanted.excelonlinereader.services^
+||slap.alliancekl.com^
 ||slickcheats.com^
 ||slimdownload.co^
+||slivoratikam.pw^
 ||slomcomnty.com^
+||slot.sub-zero.it^
 ||slotomania.newzgames.com^
 ||slsh.us^
 ||smart-avenue.fr^
 ||smartdownload.eu^
 ||smarter-welding.com^
+||smartfoodsglutenfree.kz^
 ||smartmediasearcher.com^
 ||smartnote.co^
 ||smartshoot.net^
@@ -13518,6 +13839,7 @@ zumi.pl###cookieView
 ||soldiersinccheat.elitegamershub.com^
 ||solidhacks.com^
 ||solnca-net.com^
+||solubaba.tk^
 ||solutionhacks.eu^
 ||solutionregime.com^
 ||solutionsadultes.com^
@@ -13543,6 +13865,7 @@ zumi.pl###cookieView
 ||spacefiled.com^
 ||spacemega.com^
 ||sparkcodes.com^
+||spartanr.5gbfree.com^
 ||special-promo.com^
 ||specialcontest.pw^
 ||specialgifts4me.com^
@@ -13552,6 +13875,7 @@ zumi.pl###cookieView
 ||speedyhosted.com^
 ||speedyhub.com^
 ||spelhacken.nl^
+||speroni.pw^
 ||spinbox.maccentral.com^
 ||spinbox.versiontracker.com^
 ||spinxmoney.com^
@@ -13568,6 +13892,7 @@ zumi.pl###cookieView
 ||spotifypremiumaccounts.info^
 ||spotifypremiumcodes.com^
 ||spotifypremiums.net^
+||spotmarka.ap0x.com^
 ||spotmydl.com^
 ||spotygen.com^
 ||spreadshirt.co.uk^
@@ -13580,6 +13905,8 @@ zumi.pl###cookieView
 ||ss.tiscali.it^
 ||ssdolg.ru^
 ||ssl-verified.site^
+||ssl.sinergycosmetics.com^
+||sslsam.com^
 ||ssvylrn.pw^
 ||st.sageanalyst.net^
 ||stackpoints.com^
@@ -13669,6 +13996,7 @@ zumi.pl###cookieView
 ||stats.jippii.com^
 ||stats.klsoft.com^
 ||stats.ladotstats.nl^
+||stats.lead.mysitehosted.com^
 ||stats.macworld.com^
 ||stats.magnify.net^
 ||stats.manticoretechnology.com^
@@ -13810,6 +14138,7 @@ zumi.pl###cookieView
 ||storefiles.me^
 ||storegiftcardgiveaways.com^
 ||storm-hacks.com^
+||storroliko.club^
 ||strategicdisaster.info^
 ||strawpoll.ga^
 ||strawpolll.ga^
@@ -13839,6 +14168,7 @@ zumi.pl###cookieView
 ||studiosundaytv.com^
 ||stv24x7.com^
 ||su2.su^
+||sub.beirinckx.be^
 ||subchat.net^
 ||submitcube.com^
 ||submityourgta5gamertag.com^
@@ -13883,8 +14213,11 @@ zumi.pl###cookieView
 ||surveyremover2013.com^
 ||surveyremovertool.com^
 ||surveysmasher.com^
+||suryapolix.club^
 ||suzuki-avtosalon.webspado.ru^
+||sv1.eyeonmusica.it^
 ||sverd.net^
+||svitor.hostev.net^
 ||svkjhguk.ru^
 ||svvgyjweurxn.click^
 ||swapstation.top^
@@ -13903,6 +14236,7 @@ zumi.pl###cookieView
 ||symantecsecuremails.com^
 ||synstress.net^
 ||system.ssl-verified.site^
+||systemhelpr.com^
 ||syszxy.com^
 ||szkolajezykowa.wroclaw.pl^
 ||t-rexmuscleadvice.com^
@@ -13930,6 +14264,7 @@ zumi.pl###cookieView
 ||tcookie.usatoday.com^
 ||tcr.tynt.com^
 ||tdhyjfxltpj.pw^
+||teachgalaxys.website^
 ||team-talker.net^
 ||team10merch.us^
 ||teamcheat.com^
@@ -13942,16 +14277,28 @@ zumi.pl###cookieView
 ||teamvoise.com^
 ||teamvoxinger.com^
 ||teamvoxinger.net^
+||tech-dan.xyz^
+||techakym.pw^
 ||techdatalead.com^
+||techemeka.work^
 ||techietricks.net^
 ||techlivegen.com^
+||techmag.space^
+||techmaha.pw^
 ||technicalfault.tech^
 ||techniczny24.com.pl^
 ||techonetium.com^
 ||techtoolsweb.com^
 ||techxron.com^
 ||teen-boarding-school.com^
+||teeth.co.jp^
+||tekadrian.pro^
+||tekadrian.xyz^
+||tekcharles.xyz^
+||tekchuks.xyz^
 ||tekindustri.upnjatim.ac.id^
+||tekjoe.space^
+||teksoft.pro^
 ||tele-channel.com^
 ||telechargement-fr.us^
 ||telechargementspremium.com^
@@ -13970,12 +14317,14 @@ zumi.pl###cookieView
 ||telechargergta5pcgratuit.com^
 ||telechargerjeuxpsvitagratuit.com^
 ||telechargersgta5.com^
+||telefonfiyatlari.org^
 ||templatesh.com^
 ||templerun2.newzgames.com^
 ||templerunforpc.com^
 ||tenerife-excursions.ru^
 ||tera2u.com^
 ||tes543berda73i48fsdfsd.keratadze.at^
+||tesab.org.uk^
 ||tesco.100giveaways.com^
 ||tesco.365giveaways.com^
 ||tescovouchersfree.com^
@@ -14225,6 +14574,7 @@ zumi.pl###cookieView
 ||tradebot.online^
 ||tradebot.site^
 ||tradebot.top^
+||tradecharm.lt^
 ||tradecsgo.online^
 ||tradecsgo.top^
 ||tradefastskin.com^
@@ -14248,9 +14598,11 @@ zumi.pl###cookieView
 ||transformers4.leakbay.net^
 ||transformice2013hack.com^
 ||transmissionissue.com^
+||traptrillhosts.top^
 ||travelpre.com^
 ||trax-doma.ru^
 ||trax.gamespot.com^
+||treatstartaugusth.info^
 ||tregretryfaltervipo.top^
 ||trek21.net^
 ||trending-video.com^
@@ -14271,6 +14623,7 @@ zumi.pl###cookieView
 ||trion.com.ph^
 ||trippinger.com^
 ||trk.tidaltv.com^
+||tronuprising.heliohost.org^
 ||trouvermotdepassefacebook.com^
 ||troveofmystery.sharezips.info^
 ||trucoclashofclans.es^
@@ -14284,6 +14637,7 @@ zumi.pl###cookieView
 ||truehack.net^
 ||truehits1.gits.net.th^
 ||truetalesmedia.com^
+||trust-s-b.com^
 ||trustedhacks.com^
 ||trustfolders.com^
 ||trxswbwxhr.xyz^
@@ -14300,6 +14654,7 @@ zumi.pl###cookieView
 ||tsplus.online^
 ||tssoundplugin.com^
 ||tswsgajtwhqkosd.su^
+||tt.onmypc.org^
 ||tt54rfdjhb34rfbnknaerg.milerteddy.com^
 ||tthehackk.tech^
 ||ttoyqvq.pw^
@@ -14311,6 +14666,7 @@ zumi.pl###cookieView
 ||tunnelgamers.com^
 ||tuoferta-deldia.com^
 ||tuouyunittyewr.top^
+||turkeyhotelnoslafas.su^
 ||turkishairines.info^
 ||tusrecetas.net^
 ||tv.exmovie.xyz^
@@ -14343,9 +14699,11 @@ zumi.pl###cookieView
 ||txtspy.org^
 ||tynt.com^
 ||tzarmedia.com^
+||u0003321.cp.regruhosting.ru^
 ||u24er.ovaarmor.com^
 ||u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com^
 ||u7xjailbreak.com^
+||u8781a21.pw^
 ||uasknow.com^
 ||uawj.moqhixoz.cn^
 ||uberheadquarters.com^
@@ -14360,6 +14718,7 @@ zumi.pl###cookieView
 ||ufc-streams.com^
 ||ufc168.streams24.tv^
 ||ufcundisputed3.console2pc.info^
+||ugwebz.uk.pn^
 ||uhackgames.com^
 ||uhgmnigjpf.biz^
 ||uhhvhjqowpgopq.xyz^
@@ -14635,6 +14994,11 @@ zumi.pl###cookieView
 ||uomo-shopping.com^
 ||up-flow.org^
 ||up-hook-daily.com^
+||update.rifugiopontese.it^
+||update.saintfrancoisath.be^
+||update.timstackleshop.es^
+||updateacces.org^
+||updating-flash.cloudapp.net^
 ||upfiles.eu^
 ||uphero.hackspress.net^
 ||uploadamigo.com^
@@ -14660,6 +15024,7 @@ zumi.pl###cookieView
 ||upshare.org^
 ||upsizeyourbattery.com^
 ||upsmega.com^
+||uptight.su^
 ||uptodatemovie.com^
 ||urbancheats.com^
 ||uremote.com.au^
@@ -14695,9 +15060,14 @@ zumi.pl###cookieView
 ||v7.stats.load.com^
 ||va.tawk.to^
 ||vaingloryhack.net^
+||valdmir.noriysha.ru^
 ||validcheats.com^
 ||validhacks.com^
+||valntooglesakrundigk.pw^
+||vankapetkavanis4.pw^
 ||varefication.us^
+||vashadvokat.in.ua^
+||vassabgg.pw^
 ||vbooter.org^
 ||vcabbvhrqhot.pw^
 ||vcipo.info^
@@ -14705,6 +15075,7 @@ zumi.pl###cookieView
 ||veasydownload.net^
 ||veddvelem.postaffiliatepro.com^
 ||vederefilm.net^
+||vegantravelshow.com^
 ||velajsweg.com^
 ||velodrivve.biz^
 ||verallohacks.com^
@@ -14744,6 +15115,7 @@ zumi.pl###cookieView
 ||vikabeauty.info^
 ||vikrantholidays.com^
 ||vindictushack.us^
+||vinking.top^
 ||vintagebox.pro^
 ||vip-file-xxx.org^
 ||vip-talk24.com^
@@ -14773,6 +15145,7 @@ zumi.pl###cookieView
 ||vis.sexlist.com^
 ||vishwagujarat.com^
 ||visionfiles.com^
+||visit2013.in.ua^
 ||vitamxx.in.net^
 ||vitrok.org^
 ||vivahacks.com^
@@ -14780,6 +15153,7 @@ zumi.pl###cookieView
 ||vkonte.club^
 ||vkonte.live^
 ||vntanktransport.com^
+||vodahelp.sytes.net^
 ||vodkahack.com^
 ||voenmag.com.ua^
 ||voip-package-offers.co.uk^
@@ -14898,8 +15272,11 @@ zumi.pl###cookieView
 ||warface-hack.net^
 ||warlordsofdraenorbetakeys.net^
 ||warofmercenarieshack.net^
+||warriorinjapan.hostjava.net^
 ||warthunderhack.com^
 ||wartunehack.net^
+||wasabi.mine.nu^
+||waserazer.pw^
 ||watch-breaking-bad.com^
 ||watch-now.us^
 ||watch-the-fullvideo.pw^
@@ -15000,6 +15377,7 @@ zumi.pl###cookieView
 ||wellsfargo.joyasvalentino.com^
 ||weloveturf.co.za^
 ||weol0s.viajedecarro.com^
+||weporsche.com^
 ||werhackers.net^
 ||wersalitrestyws.top^
 ||westernarts.net^
@@ -15080,6 +15458,7 @@ zumi.pl###cookieView
 ||windsorcanoeclub.org.au^
 ||winesagency.co.ke^
 ||winfreestuffhere.org^
+||winhelptech.xyz^
 ||winrarpasswordcracker.us^
 ||winrarpasswordremover.info^
 ||winrarpasswordremover.us^
@@ -15191,6 +15570,7 @@ zumi.pl###cookieView
 ||wonderful-hacks.com^
 ||wonderhacks.com^
 ||wor4d.slewirk.at^
+||wor6.b6dfnahea.ns2.name^
 ||wordshopdenver.com^
 ||work-from-home-atm.co.uk^
 ||workfileworld.com^
@@ -15247,6 +15627,7 @@ zumi.pl###cookieView
 ||wtxvmsikbmtbq.pw^
 ||wu-hackclan.eu^
 ||wuplead.com^
+||wvin.su^
 ||wvltrlrnf.xyz^
 ||ww2.360indiaonline.com^
 ||wwe12.sharezips.info^
@@ -15263,6 +15644,7 @@ zumi.pl###cookieView
 ||wwunauthorizes-idapps-idacademy.com^
 ||www-secure-runescape.co^
 ||www.001edizioni.com^
+||www.02level.tk^
 ||www.093.su^
 ||www.1000taxi.com^
 ||www.10thavenuetheatre.com^
@@ -15312,6 +15694,7 @@ zumi.pl###cookieView
 ||www.ananapa.ru^
 ||www.anastasiadate.com^
 ||www.anonymox.me^
+||www.antibasic.ga^
 ||www.antitero.tk^
 ||www.apartments-camps-charter-hotels-rooms-trips-croatia.kuki-info.hr^
 ||www.apexpoint.co.in^
@@ -15345,6 +15728,7 @@ zumi.pl###cookieView
 ||www.banden-pneus-online.nl^
 ||www.bankofamerica.com.ok.am^
 ||www.barchello.ru^
+||www.basecinco.com.ar^
 ||www.batterygripshop.com^
 ||www.bbwdesire.com^
 ||www.be4life.ru^
@@ -15423,6 +15807,7 @@ zumi.pl###cookieView
 ||www.couponcodesforamazon.com^
 ||www.couponmole.com^
 ||www.couponpitara.com^
+||www.cpro.moscow^
 ||www.creditauthpagev3.info^
 ||www.creditorrs.bid^
 ||www.creditwiseadvice.com^
@@ -15612,6 +15997,7 @@ zumi.pl###cookieView
 ||www.ihomeshow.com^
 ||www.iklanbaristertarget.com^
 ||www.ilizium.com^
+||www.impm.upel.edu.ve^
 ||www.incestdot.com^
 ||www.incestgold.com^
 ||www.indesignstudioinfo.com^
@@ -15624,6 +16010,7 @@ zumi.pl###cookieView
 ||www.inter-wife.com^
 ||www.internetsolutions.lt^
 ||www.intimchek.biz^
+||www.ipm.upel.edu.ve^
 ||www.ireadonline.com^
 ||www.iso2015ebook.com^
 ||www.itinstalbase.com^
@@ -15640,9 +16027,11 @@ zumi.pl###cookieView
 ||www.jewelrypartybiz.com^
 ||www.jhy0531.com^
 ||www.jjtbc.com^
+||www.jobdeliver.tk^
 ||www.joinamericansforanewdirection.co^
 ||www.juicyuksale.com^
 ||www.julicavero.com^
+||www.jung201.tk^
 ||www.juste-pour-un-soir.com^
 ||www.justgiving.com^
 ||www.k2-med.com^
@@ -15710,6 +16099,7 @@ zumi.pl###cookieView
 ||www.martialartsphd.com^
 ||www.matchpointtennis.com.br^
 ||www.mature.xblog.in^
+||www.mauritaniecoeur.org^
 ||www.mayki.tovarsoskidkoy.ru^
 ||www.medallionenergy.com^
 ||www.mediaads.eu^
@@ -15721,6 +16111,7 @@ zumi.pl###cookieView
 ||www.mfortune.co.uk^
 ||www.mibay.co.za^
 ||www.micropartsusa.com^
+||www.mikewine.tk^
 ||www.mikras.nl^
 ||www.milf.erolove.in^
 ||www.misterjoy.ru^
@@ -15760,6 +16151,7 @@ zumi.pl###cookieView
 ||www.neurotrascending.com^
 ||www.newsectorbs.top^
 ||www.newsxs.com^
+||www.nikey.cn^
 ||www.nine2rack.in^
 ||www.noiselolpainoff.com^
 ||www.noiss.ru^
@@ -15767,6 +16159,7 @@ zumi.pl###cookieView
 ||www.nu26.com^
 ||www.nudistbeach.xblog.in^
 ||www.ograsmus.com^
+||www.ohimmades.pw^
 ||www.oilandgasjobvacancy.com^
 ||www.oix.com^
 ||www.oix.net^
@@ -15781,6 +16174,7 @@ zumi.pl###cookieView
 ||www.oralse.ca^
 ||www.oralse.cx^
 ||www.organicfoodrecipes.net^
+||www.orquestanacaona.cult.cu^
 ||www.orthopedicmattressreviews.com^
 ||www.otherinbox.com^
 ||www.otoplenie-system.ru^
@@ -15801,6 +16195,8 @@ zumi.pl###cookieView
 ||www.peachtreeandfinchgraphicdesign.ca^
 ||www.pearlogic.com^
 ||www.perfectionmarketing.com^
+||www.perilshed.info^
+||www.personxing.in.net^
 ||www.phillywine.com^
 ||www.phonebookworld.blogspot.com^
 ||www.photosex.biz^
@@ -15819,6 +16215,7 @@ zumi.pl###cookieView
 ||www.podarkiexpress.ru^
 ||www.pogrzebowe.info^
 ||www.pokerzasady.eu^
+||www.poloatmer.ru^
 ||www.poricito.com^
 ||www.pornaha.com^
 ||www.portaldimensional.com^
@@ -15865,7 +16262,9 @@ zumi.pl###cookieView
 ||www.replyme.pw^
 ||www.respector.by^
 ||www.rhosting.pl^
+||www.rimmugygur.is^
 ||www.rippedknees.co.uk^
+||www.riverwalktrader.co.za^
 ||www.rosenbergerap.com^
 ||www.roses-paris.com^
 ||www.ruplans.ru^
@@ -15880,6 +16279,7 @@ zumi.pl###cookieView
 ||www.scientificastrology.com^
 ||www.scotiaonline.scotiabank.salferreras.com^
 ||www.sdlpgift.com^
+||www.sdspropro.co.ua^
 ||www.search4roots.com^
 ||www.searchforit.com^
 ||www.searchimpression.com^
@@ -15908,6 +16308,7 @@ zumi.pl###cookieView
 ||www.shsclassreunion.com^
 ||www.sinera.org^
 ||www.skodaekb.ru^
+||www.slapintins.publicvm.com^
 ||www.smarter-welding.com^
 ||www.smata.ru^
 ||www.smsmovies.net^
@@ -15930,6 +16331,7 @@ zumi.pl###cookieView
 ||www.su2.su^
 ||www.submitcube.com^
 ||www.summitfinancialcorporation.com^
+||www.sunbrehden.top^
 ||www.sunflowerretreats.cmail1.com^
 ||www.sunglassescool.biz^
 ||www.super-seo.ru^
@@ -15951,6 +16353,7 @@ zumi.pl###cookieView
 ||www.techxron.com^
 ||www.teen-boarding-school.com^
 ||www.teen.porndairy.in^
+||www.tekyalhaja.xyz^
 ||www.templatesh.com^
 ||www.tenerife-excursions.ru^
 ||www.tera2u.com^
@@ -16060,6 +16463,7 @@ zumi.pl###cookieView
 ||www.windowprice.net^
 ||www.wingateave.com.au^
 ||www.wisheschoice.com^
+||www.witkey.com^
 ||www.wnetz.pl^
 ||www.workliferh.com.br^
 ||www.worldnamedomains.net^
@@ -16152,7 +16556,9 @@ zumi.pl###cookieView
 ||xboxps3topc.com^
 ||xbpointcodes.com^
 ||xbqfyvfkptnllnucvyfd.pw^
+||xbsezlmaha.loan^
 ||xccjey.com^
+||xclones.in.net^
 ||xclusivedigital.com^
 ||xcracked.com^
 ||xefarporove.net^
@@ -16202,6 +16608,7 @@ zumi.pl###cookieView
 ||xpcx6erilkjced3j.1mfmkz.top^
 ||xpcx6erilkjced3j.1mpsnr.top^
 ||xpcx6erilkjced3j.1n5mod.top^
+||xpipemotoring.top^
 ||xploitz.net^
 ||xponlinescanner.com^
 ||xquad.su^
@@ -16233,8 +16640,10 @@ zumi.pl###cookieView
 ||y0utube.com.mx^
 ||y439967.com^
 ||y4bxj.adozeuds.com^
+||ya-aaaa123123.myjino.ru^
 ||yaesbfejdxs.com^
 ||yahacker.viphacks.net^
+||yamleg.fu8.com^
 ||yamunabodyrollingtoronto.com^
 ||yamytqd.pw^
 ||yardstate.net^
@@ -16347,7 +16756,10 @@ zumi.pl###cookieView
 ||yxhpgcpi.net^
 ||yyoutube.com^
 ||yyre45dbvn2nhbefbmh.begumvelic.at^
+||z0bu.dynu.com^
+||z3us1.z-ed.info^
 ||z5k25qb8xwhbjfhsj.gdn^
+||zadmj.cp-addltives.com^
 ||zagamers.com^
 ||zagela.com^
 ||zahid-trec.com^
@@ -16366,6 +16778,7 @@ zumi.pl###cookieView
 ||zendunet.fr^
 ||zenonia5hack.net^
 ||zerw.org^
+||zetes.vdsinside.com^
 ||zettapetta.com^
 ||zfile.us^
 ||zfotos.fromru.su^
