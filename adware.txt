@@ -1,7 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: Adware
-Domain Bad Isue Ads
-
+!Domain Bad Isue Ads
+!
+||*.wac.phicdn.net^
+||*.phicdn.net^
+||cs9.wac.phicdn.net^
 ||*-a.akamaihd.net^
 ||*.amazon.co.uk.security-check.ga^
 ||*.amazonaws.com^
