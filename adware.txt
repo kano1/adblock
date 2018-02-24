@@ -1165,6 +1165,7 @@
 ||analytics.ma.tune.com^
 ||analytics.mobile.walmart.com^
 ||analytics.newsinc.com^
+||Helmy-autolike.site.bz^
 ||analytics.nextopia.net^
 ||analytics.query.yahoo.com^$third-party
 ||analytics.rechtslupe.org^
