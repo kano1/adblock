@@ -15,6 +15,8 @@
 /alumno309/images/base.bin
 /alumno309/images/base.exe
 /alumno309/images/secure.php
+/proxy/NB_O3g_CJZ2ByjkT1VUk1
+/proxy/*_*-*
 /capa.bin
 /capa.exe
 /descargas/adm/gate.php
