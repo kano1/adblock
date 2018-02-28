@@ -120,6 +120,7 @@
 /projectpoi.min.js
 /pubjs
 /reasedoper.pw
+/registrujte-s
 /replacement/
 /rockish.bravepages
 /root/ads
@@ -264,8 +265,8 @@
 ||50bang.org^$third-party
 ||50bots.nullrefexcep.com^
 ||51java.top^
-||51rus.org/images/banners/merkur240.gif
-||51yes.com^$third-party
+||51rus.org^
+||51yes.com^
 ||52388828.gnway.cc^
 ||54g35546-5g6hbggffhb.tk^
 ||54rus.org/images/merkuri200.gif
