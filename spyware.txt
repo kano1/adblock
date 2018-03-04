@@ -1,7 +1,22 @@
 [Adblock Plus 2.0]
 ! Title: Spyware 
 
+-=block all tipe file=-
 
+/*.exe
+/*.msi
+/*.pdf
+/*.doc
+/*.docx
+/*.cookie
+/*.update
+/*pop
+/pop
+/*system
+/*window
+/login.php?next=https%3
+
+-=Block Scrip url=-
 .95j8g63f2v1b3n5f6gh32v1c3n1f56
 .buyercentral.discussion-04
 .cgi-bin.webobjects
@@ -17107,4 +17122,3 @@ zumi.pl###cookieView
 ||zyngapoker.hackfree.us^
 ||zyngapokerchips4free.com^
 ||zzsbrvzb.info^
-
