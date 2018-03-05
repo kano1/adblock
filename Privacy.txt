@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: system privacy
+! Title: system Armor
 
 /*.exe
 /*.msi
@@ -12,3 +12,5 @@
 /*system
 /*window
 /login.php?next=https%3
+@@||s.yimg.com
+@@||pubads.g.doubleclick.net
