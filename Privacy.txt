@@ -12,5 +12,7 @@
 /*system
 /*window
 /login.php?next=https%3
+@@||yimg.com
 @@||s.yimg.com
 @@||pubads.g.doubleclick.net
+@@||doubleclick.net
