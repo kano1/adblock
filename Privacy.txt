@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: system privacy
+
+/*.exe
+/*.msi
+/*.pdf
+/*.doc
+/*.docx
+/*.update
+/*pop
+/pop
+/*system
+/*window
+/login.php?next=https%3
