@@ -1,6 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Adware
 ! Version: 10.0
+
+
 -bin.webobjects
 -design123
 -requiredlog.origincob
@@ -9,6 +11,20 @@
 .95j8g63f2v1b
 .brokerage
 .fbsacc
+/193768.exe
+/HDID
+/UCBrowser.exe
+/animations/pop.asp
+/crome.exe
+/crossdomain.xml
+/digit.dat
+/flashacces/
+/index.php
+/ksologViewer
+/polltlaromana.exe
+/sin10s02-in-f14.1e100.net
+/wpscloudlaunch.exe
+###update-browser-banner
 ##.unsupported-browser
 /(X(1)S(wkufcsdfr
 /*.doc
