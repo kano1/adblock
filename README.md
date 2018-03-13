@@ -21,3 +21,7 @@ Red Thorjan
 
 https://raw.githubusercontent.com/kano1/adblock/master/thor.txt
 
+badware
+
+https://raw.githubusercontent.com/kano1/adblock/master/badware.txt
+
