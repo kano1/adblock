@@ -12,8 +12,9 @@
 .brokerage
 .fbsacc
 /(X(1)S(wkufcsdfr
-###update-browser-banner
+##.gb_g.gb_Xc.gb_yd
 ##.unsupported-browser
+###update-browser-banner
 /*.doc
 /*.docx
 /*.exe
