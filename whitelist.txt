@@ -1,0 +1,41 @@
+[Adblock Plus 2.0]
+! Title: whitelist
+! Version: 10.0
+
+@@||adnxs.com
+@@||ads.yahoo.com
+@@||airfrance.com
+@@||aol.com
+@@||appnexus.com
+@@||beap-bc.yahoo.com
+@@||bing.com
+@@||brightroll.com
+@@||comscore.com
+@@||criteo.net
+@@||doubleclick.net
+@@||foxonestop.com
+@@||geo.yahoo.com
+@@||googlesyndication.com
+@@||googletagservices.com
+@@||id.yahoo.com
+@@||mathtag.com
+@@||mediamath.com
+@@||pubmatic.com
+@@||radiumone.com
+@@||rubiconproject.com
+@@||simpli.fi
+@@||trustarc.com
+@@||truste.com
+@@||udc.yahoo.com
+@@||viva.co.id
+@@||www.aol.com
+@@||www.appnexus.com
+@@||www.brightroll.com
+@@||www.comscore.com
+@@||www.criteo.net
+@@||www.foxonestop.com
+@@||www.mediamath.com
+@@||www.pubmatic.com
+@@||www.radiumone.com
+@@||www.simpli.fi
+@@||www.viva.co.id
