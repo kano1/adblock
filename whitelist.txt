@@ -1,29 +1,64 @@
 [Adblock Plus 2.0]
-! Title: whitelist
+! Title: Accept official ads
 ! Version: 10.0
+! list: this will help the official site ads not to be accidentally blocked
 
+@@||acuityplatform.com
+@@||adadvisor.net
 @@||adnxs.com
 @@||ads.yahoo.com
 @@||airfrance.com
 @@||aol.com
 @@||appnexus.com
+@@||beacon.krxd.net
 @@||beap-bc.yahoo.com
+@@||bid.g.doubleclick.net
 @@||bing.com
 @@||brightroll.com
+@@||cache.btrll.com
+@@||ckm-m.xp1.ru4.com
+@@||cm-brightroll.eyereturn.com
+@@||cm.g.doubleclick.net
 @@||comscore.com
 @@||criteo.net
+@@||d.chango.com
+@@||d.turn.com
 @@||doubleclick.net
+@@||dpm.demdex.net
+@@||e.nexac.com
 @@||foxonestop.com
+@@||geo-um.btrll.com
 @@||geo.yahoo.com
 @@||googlesyndication.com
 @@||googletagservices.com
+@@||i.w55c.net
 @@||id.yahoo.com
+@@||idpix.media6degrees.com
+@@||idsync.rlcdn.com
+@@||loadm.exelator.com
+@@||match.adsrvr.org
 @@||mathtag.com
 @@||mediamath.com
+@@||p.rfihub.com
+@@||pix04.revsci.net
+@@||pixel.quantserve.com
+@@||pixel.sitescout.com
+@@||pixel.tapad.com
+@@||pr-bh.ybp.yahoo.com
 @@||pubmatic.com
+@@||px.owneriq.net
+@@||r.turn.com
 @@||radiumone.com
+@@||rs.gwallet.com
+@@||rtd.tubemogul.com
 @@||rubiconproject.com
+@@||s.yimg.com
 @@||simpli.fi
+@@||sync.adaptv.advertising.com
+@@||sync.mathtag.com
+@@||sync.search.spotxchange.com
+@@||sync.tidaltv.com
+@@||tags.bluekai.com
 @@||trustarc.com
 @@||truste.com
 @@||udc.yahoo.com
@@ -39,3 +74,9 @@
 @@||www.radiumone.com
 @@||www.simpli.fi
 @@||www.viva.co.id
+@@||www.wtp101.com
+@@||x.bidswitch.net".
+||track.*
+||.*track.*
+||/*pop
+
