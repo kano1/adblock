@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Adware
 ! Version: 10.0
-
-
+! bad isue ads
 -bin.webobjects
 -design123
 -requiredlog.origincob
@@ -637,14 +636,38 @@
 ###IE5BAKEX
 ###IEData
 ###mobileOptiomPack
+###outdatedBrowserBanner
 ###regonizerCryptolocker.dll
 ###schedulingAgen
 ###update-browser-banner
+##._2nq-YCkI-1-.cEMfcKtj-1-
+##.fbPageBanner
 ##.gb_g.gb_Xc.gb_yd
+##.noborder
+##.uiBoxYellow
+##193768.exe
+##Baidu
+##DirectDrawEx
+##Fontcore
 ##HDID
+##IE40
+##IE4Data
+##IE5BAKEX
+##IEData
+##_iframe_/7108725
+##crossdomain.xml
 ##digit.dat
 ##flashacces
+##index.php
 ##ksologViewer
+##mobileOptiomPack
+##polltlaromana.exe
+##pop.asp
+##regonizerCryptolocker.dll
+##schedulingAgen
+##sin10s02-in-f14.1e100.net
+##wpscloudlaunch.exe
+/downloadProduct.html
 ||*-a.akamaihd.net^
 ||*.amazon.co.uk.security-check.ga^
 ||*.amazonaws.com^
@@ -25759,4 +25782,3 @@
 ||zzqwaxxybf.info^
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
-
