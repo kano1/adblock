@@ -25,3 +25,7 @@ badware
 
 https://raw.githubusercontent.com/kano1/adblock/master/badware.txt
 
+
+adblock plus malware domainm
+
+https://raw.githubusercontent.com/kano1/adblock/master/Malwaredomain-ABP.txt
