@@ -534,7 +534,6 @@
 /sollove.js
 /solmachine.js
 /ss_feed/injector.min.js
-/ssa/
 /steelfs.js
 /stellaar.js
 /stokmer.js
@@ -15211,13 +15210,7 @@
 ||pacinocash.com^
 ||padsdel.cdnads.com^
 ||page-x.com^
-||pagead-googlehosted.l.google.com^
-||pagead.l.doubleclick.net^
-||pagead.l.google.com^
 ||pagead.topobiavi.com^
-||pagead2.googleadservices.com^
-||pagead2.googlesyndication.com^
-||pagead46.l.doubleclick.net^
 ||pagefair.com^
 ||pagepeels.sexmoney.com^
 ||pager.site50.net^
