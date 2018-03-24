@@ -641,7 +641,6 @@
 ###schedulingAgen
 ###update-browser-banner
 ##._2nq-YCkI-1-.cEMfcKtj-1-
-##.fbPageBanner
 ##.gb_g.gb_Xc.gb_yd
 ##.noborder
 ##.uiBoxYellow
