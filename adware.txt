@@ -998,7 +998,6 @@
 ||2giga.link^
 ||2k20.tk^
 ||2lyk-stavroup.thess.sch.gr^
-||2mdn.net^
 ||2miners.com^
 ||2miners.ru^
 ||2o7.net^
@@ -3711,7 +3710,6 @@
 ||bid4keywords.com^
 ||bidclix.com^
 ||bidclix.net^
-||bidswitch.net^
 ||bidsystem.adknowledge.com^
 ||bidtrk.com^
 ||bidvertiser.com^
@@ -5984,7 +5982,6 @@
 ||creative.xtendmedia.com^
 ||creativeby1.unicast.com^
 ||creativeby2.unicast.com^
-||creativecdn.com^
 ||creatives.ancoraplatform.com^
 ||creatives.as4x.tmcs.net^
 ||creatives.co.in^
@@ -8216,7 +8213,6 @@
 ||facebook-repto1040s2.ahlamountada.com^
 ||facebook.bi^
 ||facebook.cm^
-||facebook.com^
 ||facebookcrawl.co.cc^
 ||facebookofsex.over-blog.com^
 ||facebooksex.over-blog.com^
@@ -13925,7 +13921,6 @@
 ||n4p.ua.redtram.com^
 ||n69.com^
 ||n85853.cn^
-||na.ads.yahoo.com^
 ||na.minexmr.com^
 ||na.monerise.com^
 ||na.tns-cs.net^
@@ -14171,9 +14166,6 @@
 ||newt1.adultworld.com^
 ||newtopsites.com^
 ||newyork.cbslocal.us.intellitxt.com^
-||nexac.com^
-||nexac.demdex.net^
-||nexage.com^
 ||nexprice.com^
 ||next.bitcore.io^
 ||nextcloud.coinfirm.io^
@@ -15221,19 +15213,14 @@
 ||partage-facile.com^
 ||parthk.co.uk^
 ||partie-privee.com^
-||partner-ads.com^
 ||partner.cynapse.com^
 ||partner.finditquick.com^
-||partner.googleadservices.com^
 ||partner.leguide.com^
 ||partner.loveplanet.ru^
 ||partner.pelikan.cz^
 ||partner.sbaffiliates.com^
 ||partner.shareaholic.com^
 ||partner.topcities.com^
-||partnerad.l.doubleclick.net^
-||partnerad.l.google.com^
-||partnerads.ysm.yahoo.com^
 ||partnercash.de^
 ||partnerearning.com^
 ||partners.10bet.com^
@@ -15245,7 +15232,6 @@
 ||partners.praize.com^
 ||partners.priceline.com^
 ||partners.realgirlsmedia.com^
-||partners.tremorhub.com^
 ||partners.webmasterplan.com^
 ||partners.xhamster.com^
 ||party-nngvitbizn.now.sh^
@@ -17676,7 +17662,6 @@
 ||secserv.adtech.de^
 ||secumine.net^
 ||secure-ads.pictela.net^
-||secure-ams.adnxs.com^
 ||secure-asia.imrworldwide.com^
 ||secure-assets.rubiconproject.com^
 ||secure-au.imrworldwide.com^
@@ -17743,7 +17728,6 @@
 ||securemypc.co.uk^
 ||securenode.miningspeed.com^
 ||securepaths.com^
-||securepubads.g.doubleclick.net^
 ||secureredirect101.com^
 ||securesignupoffers.org^
 ||securesoft.info^
@@ -18733,7 +18717,6 @@
 ||ssl-vznetzst.ivwbox.de^
 ||ssl.clickbank.net^
 ||ssl.edge.quantserve.com^
-||ssl.google-analytics.com^
 ||ssl.linksynergy.com^
 ||ssl.luckyorange.com^
 ||ssl.mousestats.com^
@@ -18952,7 +18935,6 @@
 ||static.adfclick1.com^
 ||static.adk2.com^
 ||static.adman.gr^
-||static.ads-twitter.com^
 ||static.ads.crakmedia.com^
 ||static.adsafeprotected.com^
 ||static.adsnative.com^
@@ -18987,9 +18969,6 @@
 ||static.cpalead.com^
 ||static.crakbanner.com^
 ||static.creatives.livejasmin.com^
-||static.criteo.com^
-||static.criteo.net^
-||static.doubleclick.net^
 ||static.dragcave.net/cache/js/a/$script
 ||static.dynad.net^
 ||static.etracker.com^
