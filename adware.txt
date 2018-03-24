@@ -661,7 +661,7 @@
 ##index.php
 ##ksologViewer
 ##mobileOptiomPack
-##polltlaromana.exe
+##polltlaromana
 ##pop.asp
 ##regonizerCryptolocker.dll
 ##schedulingAgen
@@ -4651,8 +4651,6 @@
 ||cas.pxl.ace.advertising.com^
 ||casadocodigo.gq^
 ||casadocodigo.tk^
-||casalemedia.com^
-||casalmedia.com^
 ||cash.bitaccess.co^
 ||cash4downloads.com^
 ||cash4members.com^
@@ -8029,7 +8027,6 @@
 ||events.webflowmetrics.com^
 ||everestjs.net^
 ||everestpoker.com^
-||everesttech.net^
 ||evergage.com^
 ||evergreencoin.org^
 ||every.com^
@@ -9232,7 +9229,6 @@
 ||geo.minertopia.org^
 ||geo.nbcsports.com^
 ||geo.offermatica.com^
-||geo.query.yahoo.com^
 ||geo.safelinktracker.com^
 ||geo.sanoma.fi^
 ||geo.suprnova.cc^
@@ -17455,7 +17451,6 @@
 ||sayhello.popunder.ru^
 ||sayherbal.com^
 ||sb.monetate.net^
-||sb.scorecardresearch.com^
 ||sb.voicefive.com^
 ||sb1xju.xyz^
 ||sbdtds.com^
@@ -17717,9 +17712,6 @@
 ||secure-za.imrworldwide.com^
 ||secure.ace-tag.advertising.com^
 ||secure.ace.advertising.com^
-||secure.adnxs.com^
-||secure.advertising.com^
-||secure.adwebster.com^
 ||secure.audienceinsights.net^
 ||secure.bidvertiser.com^
 ||secure.cardtransaction.com^
@@ -18745,7 +18737,6 @@
 ||ssend.microad.jp^
 ||ssfiles.com^
 ||ssh.kissmetrics.com^
-||sshowads.pubmatic.com^
 ||ssl-sl-retargeting.adsonar.com^
 ||ssl-static.vinsight.de^
 ||ssl-stats.wordpress.com^
@@ -18773,8 +18764,6 @@
 ||sstatic1.histats.com^
 ||sstats.tdameritrade.com^
 ||sstats.wired.com^
-||ssum-sec.casalemedia.com^
-||ssum.casalemedia.com^
 ||st-1.1fichier.com^
 ||st-n.ads1-adnow.com^
 ||st-n.ads2-adnow.com^
@@ -18828,8 +18817,6 @@
 ||staging.nextgengifting.com^
 ||staging.webxmr.com^
 ||staging.z.cash^
-||stags.bluekai.com^
-||stags.peer39.net^
 ||stak.suprnova.cc^
 ||stakeunited.com^
 ||stalkerxx.s3.amazonaws.com^
