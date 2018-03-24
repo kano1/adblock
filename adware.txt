@@ -13,10 +13,7 @@
 .fbsacc
 /(X(1)S(wkufcsdfr
 /downloadProduct.html
-/*.doc
-/*.docx
 /*.exe
-/*.pdf
 /.workwork/.press/docgg
 /02bjJBHDs
 /0G6r8t4vWcy
