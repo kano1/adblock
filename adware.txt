@@ -3572,8 +3572,6 @@
 ||beagamer.club^
 ||beam.hlserve.com^
 ||beam.to^
-||beap.adx.yahoo.com^
-||beap.gemini.yahoo.com^
 ||beastasuum.a.ssl.fastly.net^
 ||beautyden.us.intellitxt.com^
 ||beautysane.ru^
@@ -4271,7 +4269,6 @@
 ||btnativedirect.com^
 ||btprmnav.com^
 ||btrace.qq.com^
-||btrll.com^
 ||btrpreroll.s3.amazonaws.com^
 ||bttrack.com^
 ||btv.coin-miners.info^
@@ -10473,10 +10470,6 @@
 ||image.dhgate.com^
 ||image.i1img.com^
 ||image.providesupport.com^
-||image1.cecash.com^
-||image2.pubmatic.com^
-||image3.pubmatic.com^
-||image5.pubmatic.com^
 ||imageads.canoe.ca^
 ||imageads.sexmoney.com^
 ||imagec05.247realmedia.com^
@@ -17497,7 +17490,6 @@
 ||score.coin-miners.info^
 ||score.zeroclickfraud.com^
 ||scorecard.wspisp.net^
-||scorecardresearch.com^
 ||scounter.rambler.ru^
 ||scout.scoutanalytics.net^
 ||scout24.wemfbox.ch^
@@ -17949,8 +17941,6 @@
 ||services.serving-sys.com^
 ||services.webspectator.com^
 ||services.x-traceur.com^
-||serving-sys.com^
-||serving.adsrevenue.clicksor.net^
 ||serving.bepolite.eu^
 ||serving.xxxwebtraffic.com^
 ||servustats.com^
@@ -19456,7 +19446,7 @@
 ||stickylogic.com^
 ||stignita.zapto.org^
 ||stimul-m.com.ua^
-||stippleit.com^$third-party
+||stippleit.com^
 ||stir.semilo.com^
 ||stitchgrrl.com^
 ||stivn.net^
