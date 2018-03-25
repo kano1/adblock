@@ -1,11 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adware
-! Version: 10.0
-! bad isue ads
-
-
-[Adblock Plus 2.0]
-! Title: Adware BL(By Garuda)
+! Title: Adware Filter
 ! Version: 10.0
 ! list: Domain Bad Isue Ads
 
