@@ -16,6 +16,9 @@
 /*.docx
 /*.exe
 /*.pdf
+/*pop
+||ys3e965d.top^
+/show?bver=1&refer
 /.workwork/.press/docgg
 /02bjJBHDs
 /0G6r8t4vWcy
@@ -493,7 +496,7 @@
 /plugin/otros.js
 /plugin/script.js
 /polltlaromana.exe
-/pop/
+/pop
 /processor.js
 /projectpoi.min.js
 /proof/upCopy
