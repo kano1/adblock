@@ -17,7 +17,10 @@ vidio whitelist
 @@||googlevideo.com
 @@||ytimg.com
 @@||mp4upload.com
-
 chating
 @@||chatango.com
 @@||apis.google.com
+media
+@@||translate.googleapis.com
+@@||fbcdn.net
+
