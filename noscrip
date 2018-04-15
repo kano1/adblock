@@ -11,8 +11,13 @@
 /*.php
 /*.docx
 /*.doc
-/*.cookie
+/*cookies
 vidio whitelist
 
-@@|oglevideo.com
+@@||googlevideo.com
 @@||ytimg.com
+@@||mp4upload.com
+
+chating
+@@||chatango.com
+@@||apis.google.com
