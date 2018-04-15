@@ -1,0 +1,61 @@
+[Adblock Plus 2.0]
+! Title: Garuda Privacy
+! Version: 10.0
+! list: Domain Bad Isue Ads
+
+/*.js
+/*.php
+/*.exe
+/*.msi
+/*.pdf
+/*.php
+/*.docx
+/*.doc
+/*cookies
+/*cookie
+/cookie
+/*.cookie
+/cookie-
+/coolest
+/cookie.*^
+/_td_api?
+/pop
+/*system
+/system
+/*window
+/login.php?
+/id.html
+/_td_api?
+/pop
+/*system
+/system
+/*window
+/login.php?
+/id.html
+/proxy/*
+/*proxy
+/collector.*
+/pogijhnlcf
+/api
+/stats
+/page_view?
+/undefined
+/log
+
+vidio whitelist
+@@||playercdn.net
+@@||rapidvideo.com
+@@||googlevideo.com
+@@||ytimg.com
+@@||mp4upload.com
+chating
+@@||chatango.com
+@@||apis.google.com
+media
+@@||accounts.google.com
+@@||translate.googleapis.com
+@@||fbcdn.net
+@@||twimg.com
+@@||id.yahoo.com
+@@||id.google.com
+@@||yimg.com
