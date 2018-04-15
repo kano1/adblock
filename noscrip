@@ -11,3 +11,7 @@
 /*.php
 /*.docx
 /*.doc
+
+vidio whitelist
+@@|oglevideo.com
+@@||ytimg.com
