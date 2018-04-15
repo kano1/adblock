@@ -18,14 +18,12 @@
 /cookie-
 /coolest
 /cookie.*^
-/_td_api?
 /pop
 /*system
 /system
 /*window
 /login.php?
 /id.html
-/_td_api?
 /pop
 /*system
 /system
@@ -36,7 +34,6 @@
 /*proxy
 /collector.*
 /pogijhnlcf
-/api
 /stats
 /page_view?
 /undefined
