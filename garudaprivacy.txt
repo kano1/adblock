@@ -12,23 +12,23 @@
 /*.doc
 /*cookie
 /*pop
-/*system
-/*window
+/*ciuvo-contentscript.js
 /login.php?
 /id.html
 /pop
-/id.html
-/*proxy
 
-vidio whitelist
+!vidio
 @@||playercdn.net
 @@||rapidvideo.com
 @@||googlevideo.com
 @@||ytimg.com
 @@||mp4upload.com
 @@||jwplatform.com
-@@||blogger.com/video-play
-media
+@@||blogger.com
+@@||*/video-play
+@@||animeindo.wtf
+!media
+@@##.jw-media.jw-reset
 @@||chatango.com
 @@||disqus.com/embed/comment
 @@||accounts.google.com
@@ -40,5 +40,4 @@ media
 @@||yimg.com
 @@||ajax.googleapis.com
 @@||apis.google.com
-
-
+@@||www.google.co.id
