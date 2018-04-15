@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Garuda Privacy
 ! Version: 10.0
-! list: Domain Bad Isue Ads
 
 /*.js
 /*.php
@@ -11,33 +10,15 @@
 /*.php
 /*.docx
 /*.doc
-/*cookies
 /*cookie
-/cookie
-/*.cookie
-/cookie-
-/coolest
-/cookie.*^
-/pop
+/*pop
 /*system
-/system
 /*window
 /login.php?
 /id.html
 /pop
-/*system
-/system
-/*window
-/login.php?
 /id.html
-/proxy/*
 /*proxy
-/collector.*
-/pogijhnlcf
-/stats
-/page_view?
-/undefined
-/log
 
 vidio whitelist
 @@||playercdn.net
