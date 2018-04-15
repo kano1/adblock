@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: No Scrip
+! Version: 10.0
+! list: Domain Bad Isue Ads
+
+/*.js
+/*.php
+/*.exe
+/*.msi
+/*.pdf
+/*.php
+/*.docx
+/*.doc
