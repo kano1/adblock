@@ -48,9 +48,11 @@ vidio whitelist
 @@||googlevideo.com
 @@||ytimg.com
 @@||mp4upload.com
-chating
-@@||chatango.com
+@@||jwplatform.com
+@@||blogger.com/video-play
 media
+@@||chatango.com
+@@||disqus.com/embed/comment
 @@||accounts.google.com
 @@||translate.googleapis.com
 @@||fbcdn.net
