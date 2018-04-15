@@ -50,7 +50,6 @@ vidio whitelist
 @@||mp4upload.com
 chating
 @@||chatango.com
-@@||apis.google.com
 media
 @@||accounts.google.com
 @@||translate.googleapis.com
@@ -59,3 +58,7 @@ media
 @@||id.yahoo.com
 @@||id.google.com
 @@||yimg.com
+@@||ajax.googleapis.com
+@@||apis.google.com
+
+
