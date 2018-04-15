@@ -43,3 +43,8 @@
 @@||ajax.googleapis.com
 @@||apis.google.com
 @@||www.google.co.id
+@@||yimg.com/
+@@||animeindo.wtf
+@@||metrotvnews.com
+||ciuvo.com^
+
