@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
-! Title: IP DDOSER
+! Title:  Ransomeware 
+! list for ip hacker,WannaCry,Bad Rabbit,Cerber,Crysis,CryptoLocker,CryptoWall,Crysis,CTB-Locker,GoldenEye,Jigsaw,KeRanger and oter ransomeware 
 
 ||1.1.168.192^
 ||1.32.127.255^
