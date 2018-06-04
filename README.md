@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/kano1/adblock/master/adware.txt
 
 malware
 
-https://raw.githubusercontent.com/kano1/adblock/master/Malware.txt
+https://raw.githubusercontent.com/kano1/adblock/master/Malwaredomain.txt
 
 spyware
 
@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/kano1/adblock/master/spyware.txt
 
 ip ddoser
 
-https://raw.githubusercontent.com/kano1/adblock/master/DDOSER.txt
+https://raw.githubusercontent.com/kano1/adblock/master/Ransomeware.txt
 
 Red Thorjan
 
