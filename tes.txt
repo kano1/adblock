@@ -10192,9 +10192,6 @@
 ||ads.prospect.org^
 ||ads.proz.com^
 ||ads.psd2html.com^
-||ads.publicdisgrace.com^
-||ads.publicidad.net^
-||ads.pubsqrd.com^
 ||ads.purefuck.com^
 ||ads.pushplay.com^
 ||ads.q1media.com^
@@ -14094,7 +14091,6 @@
 ||btnativedirect.com^
 ||btprmnav.com^
 ||btrace.qq.com^
-||btrpreroll.s3.amazonaws.com^
 ||btv.coin-miners.info^
 ||btw.ero-advertising.com^
 ||btx.suprnova.cc^
