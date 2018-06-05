@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter
 ! Version: 10.0
-! list: Domain Bad Isue Ads
+! list: Domain Ads
 
 -bin.webobjects
 -design123
@@ -14,6 +14,8 @@
 /(X(1)S(wkufcsdfr
 /*.exe
 /*pop
+/d78f630d-
+/show?bver=1&refer
 /.workwork/.press/docgg
 /02bjJBHDs
 /0G6r8t4vWcy
