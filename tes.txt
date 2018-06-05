@@ -12,10 +12,7 @@
 .brokerage
 .fbsacc
 /(X(1)S(wkufcsdfr
-/*.doc
-/*.docx
 /*.exe
-/*.pdf
 /*pop
 /.workwork/.press/docgg
 /02bjJBHDs
