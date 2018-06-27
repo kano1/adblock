@@ -28717,6 +28717,7 @@ zuuk.org###fl10
 ||worker7.minero.cc^
 ||worker8.minero.cc^
 ||worker9.minero.cc^
+||workexaminer.com^
 ||workincanada.com.au^
 ||world-battle.com^
 ||world.wemineltc.com^
