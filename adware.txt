@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter
-! Version: 10.0
+! Version: 201807020302
 ! list: Domain Bad Isue Ads
 
 -bin.webobjects
