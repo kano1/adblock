@@ -9,6 +9,14 @@ malware
 
 https://raw.githubusercontent.com/kano1/adblock/master/Malwaredomain.txt
 
+adblock plus malware domain block list
+
+https://raw.githubusercontent.com/kano1/adblock/master/Malwaredomain-ABP.txt
+
+comodo icedragon malware domain block list
+
+https://raw.githubusercontent.com/kano1/Kano/master/Malwaredomain-comodo.txt
+
 spyware
 
 https://raw.githubusercontent.com/kano1/adblock/master/spyware.txt
@@ -25,7 +33,3 @@ badware
 
 https://raw.githubusercontent.com/kano1/adblock/master/badware.txt
 
-
-adblock plus malware domainm
-
-https://raw.githubusercontent.com/kano1/adblock/master/Malwaredomain-ABP.txt
