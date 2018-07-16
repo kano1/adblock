@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/kano1/adblock/master/Malwaredomain-ABP.txt
 
 comodo icedragon malware domain block list
 
-https://raw.githubusercontent.com/kano1/Kano/master/Malwaredomain-comodo.txt
+https://raw.githubusercontent.com/kano1/Kano/master/Malwaredomain-comodo.filter.txt
 
 spyware
 
