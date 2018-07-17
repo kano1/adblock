@@ -3,12 +3,12 @@
 ! Version: 201807020302
 ! list: Domain Bad Isue Ads
 
-
 .95j8g63f2v1b
 .brokerage
 .fbsacc
 /(X(1)S(wkufcsdfr
 /*.doc
+/sound?
 /*.docx
 /*.exe
 /*.pdf
