@@ -12,6 +12,9 @@
 /*.docx
 /*.exe
 /*.pdf
+/*4d0bee.js
+/*Cookies
+/*cookies
 /.workwork/.press/docgg
 /02bjJBHDs
 /0G6r8t4vWcy
