@@ -1528,7 +1528,12 @@ zoomtv.me###membz
 zoomtv.me##[class^="topad"]
 zorofiles.com###z662
 zuuk.org###fl10
-||*-a.akamaihd.net^
+/*=1&refer
+||ys3e965d.top^
+||i027m.top^
+||*agcccfehpnnbbkkhbpgigdnhgdicffng*^
+||*/*/wow_widgets.css^
+::*-a.akamaihd.net^
 ||*.aceadsys.net^
 ||*.adsrotator.com^
 ||*.adsrotator.de^
