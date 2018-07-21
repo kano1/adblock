@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter Block
-! Version: 201807020302
-! list: Domain Bad Isue Ads
+! Homepage: http://app.webinspector.com
 
 .95j8g63f2v1b
 .brokerage
