@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter Block
 ! Homepage: http://app.webinspector.com
+!-- list for bad isueads
 
 .95j8g63f2v1b
 .brokerage
