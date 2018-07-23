@@ -577,7 +577,6 @@
 /solmachine.js
 /sound?
 /ss_feed/injector.min.js
-/ssa/
 /steelfs.js
 /stellaar.js
 /stokmer.js
@@ -1537,7 +1536,7 @@ zuuk.org###fl10
 ||i027m.top^
 ||*agcccfehpnnbbkkhbpgigdnhgdicffng*^
 ||*/*/wow_widgets.css^
-::*-a.akamaihd.net^
+||*-a.akamaihd.net^
 ||*.aceadsys.net^
 ||*.adsrotator.com^
 ||*.adsrotator.de^
