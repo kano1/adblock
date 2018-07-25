@@ -11,7 +11,9 @@
 /sound?
 /*.docx
 /*.exe
+/*exe
 /*.pdf
+/document-*html?
 /*4d0bee.js
 /*Cookies
 /*cookies
