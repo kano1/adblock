@@ -9725,10 +9725,6 @@ zuuk.org###fl10
 ||displaymarketplace.com^$third-party
 ||disponivelcompras.com.br^
 ||dispute-transaction.review^
-||disqus.com/api/ping?$third-party
-||disqus.com/event.js?$script
-||disqus.com/stats.html
-||disqusads.com/ads-iframe/prebid/
 ||distralytics.com^$third-party
 ||distribuidoraa3.com.br^
 ||distributorgalvalumeimport.com^
