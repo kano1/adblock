@@ -1,3 +1,4 @@
+
 [Adblock Plus 2.0]
 ! Title: Adware Filter Block
 ! Homepage: http://app.webinspector.com
@@ -16,6 +17,7 @@
 /*.pdf
 /document
 /*document
+//agcccfehpnnbbkkhbpgigdnhgdicffng/document-blocked.html?
 /fnpz7jxs?
 /*4d0bee.js
 /*Cookies
