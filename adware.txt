@@ -17,7 +17,7 @@
 /*.pdf
 /document
 /*document
-//agcccfehpnnbbkkhbpgigdnhgdicffng/document-blocked.html?
+//*/document-blocked.html?
 /fnpz7jxs?
 /*4d0bee.js
 /*Cookies
