@@ -17,6 +17,9 @@
 /document
 /*document
 //*/document-blocked.html?
+/o.js
+/tfjr.js
+/AdServer/js/*Macro
 /fnpz7jxs?
 /*4d0bee.js
 /*Cookies
