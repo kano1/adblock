@@ -2,32 +2,21 @@
 ! Title: Adware Filter Block
 ! Homepage: http://app.webinspector.com
 !-- list for bad isueads
-
 .95j8g63f2v1b
 .brokerage
 .fbsacc
 /(X(1)S(wkufcsdfr
 /*.doc
-/sound?
 /*.docx
 /*.exe
-/fnpz7jxs
 /*.pdf
-/document
-/*document
-//*/document-blocked.html?
-/o.js
-/tfjr.js
-/AdServer/js/*Macro
-/*refer
-||ewopxadcn.com^
-/ei.js
-/fnpz7jxs?
 /*4d0bee.js
 /*Cookies
 /*cookies
+/*document
+/*refer
 /.workwork/.press/docgg
-/uaest.js
+//*/document-blocked.html?
 /02bjJBHDs
 /0G6r8t4vWcy
 /0ns/?id=a62506
@@ -38,6 +27,7 @@
 /2L5pGE.exe
 /2fYCpH
 /300d215614243499001f04e3a899dd80
+/31/4c/34/
 /333480ad3beafd2e6be41a1e311cc428
 /345/wrw.exe
 /352effd420b62ac3397fca1e429b7f03
@@ -62,6 +52,7 @@
 /?p=75930
 /A13/art
 /ABDOX/ND
+/AdServer/js/*Macro
 /Admin12345_7520.exe
 /Ads/otros.php
 /Amazona/592aa0559450c4cc66f1ff416848bc35
@@ -246,6 +237,7 @@
 /dickenshandchimes.js
 /dicksmacker.js
 /digit.dat
+/document
 /documento
 /download/1182287/dl?bc=1182287&&p
 /download/1182287/dl?bc=1182287&pi
@@ -259,6 +251,7 @@
 /e0354703e77b74722a51e6171572ebf4
 /e702136a3186e545e7e30fe99b9f0c48
 /ef84f6f688e1ca2bff78379217134fd9
+/ei.js
 /fabiocaminero.js
 /factoryfreeapparel.js
 /fareastcoal.js
@@ -270,6 +263,8 @@
 /fedstone.js
 /file/300?sub_id=wTPFUH715RSLV4VL02LBSPFC&amp;pub_id=434&amp;template=lp8&amp;srcid=84f93ab4-1255-4583-a901-8784f4760da3
 /flashacces/
+/fnpz7jxs
+/fnpz7jxs?
 /for193gd63891mat
 /forum.php
 /frd/fbn/?next=http%3A%2F%2Fwww.fb.com%2videos%2F%3A%4A%4ID%1A
@@ -425,6 +420,7 @@
 /log/system/ads
 /m.geology.js
 /m3/e-DocSign
+/maa.js
 /mankingdocumentation/Archive
 /mannersfromtheheart.js
 /manu-forti.js
@@ -453,6 +449,7 @@
 /minescripts.js
 /minevitamin.js
 /mirror/filesfrog/UpdateCheckerSetup.exe
+/mkfy.js
 /mobile/6b51fd4f5fe48bf11106549cae3fa593
 /mobile/7728868a9fb171147a2b019e85f5f862
 /mobile/7bf6f08137301080c93ec505dc2d3b4a
@@ -506,6 +503,7 @@
 /novamine.cl/llc
 /nsplugins/OFMailNP.jar,http://www.eomniform.com/OF5/nsplugins/OFMailNP.xpi,http://www.eomniform.com/OF5/nsplugins/OFMailX.cab\
 /ntcs.co.in/language/2014gdocs
+/o.js
 /obfus.min.js
 /oferta/js/doc2014/auth.php
 /okealong.js
@@ -533,6 +531,7 @@
 /open/dor/js
 /ora.life.js
 /oregonreversemortgage.js
+/ow.js
 /plugin/otros.js
 /plugin/script.js
 /plugins/adblock-notify-by-bweb/*
@@ -563,6 +562,7 @@
 /root/ads
 /run.js
 /runescape-autominer
+/s?cid=
 /safelinkconverter.js
 /sagaoil.js
 /sagaoil.ro
@@ -583,6 +583,7 @@
 /silverhand.js
 /sin10s02-in-f14.1e100.net
 /skycndownernew/accat83_420742.exe
+/sms.js
 /social-traffic-pop/jquery.stp.js$script
 /sollove.js
 /solmachine.js
@@ -608,17 +609,22 @@
 /tc.slav.js
 /teelfs.js
 /tett/ggdc/index.php
+/tfjr.js
 /tmp/plupload/dropforreal/dropforreal
 /tradium.js
 /trustedsaver.js
 /tw/219299eea69f5184d83262b02d9326b7
 /tw/eae55ed000dfc55bbb66bddd18abbb0d
+/ua.js
+/uaest.js
 /updates/ts/ts_5/update1.exe
 /us/Archive
 /usbmonitor.exe
+/v.js
 /v24431?product_name=Dragonball+GT
 /vairscrat.js
 /vbold/css/amazon2/a515497b5aeaea911724097c2673a92d/index/web
+/vd.js
 /vjiekgk
 /vqg3v4x4
 /wacker-etm.js
