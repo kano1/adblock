@@ -2,6 +2,7 @@
 ! Title: Adware Filter Block
 ! Homepage: http://app.webinspector.com
 !-- list for bad isueads
+
 .95j8g63f2v1b
 .brokerage
 .fbsacc
@@ -225,6 +226,7 @@
 /d1/instructions/up
 /d1d92b94e6127636840fd82ed93bdf79
 /d78f630d
+/da.js
 /data.js.php
 /dealdo/
 /dealdo^
@@ -503,6 +505,7 @@
 /novamine.cl/llc
 /nsplugins/OFMailNP.jar,http://www.eomniform.com/OF5/nsplugins/OFMailNP.xpi,http://www.eomniform.com/OF5/nsplugins/OFMailX.cab\
 /ntcs.co.in/language/2014gdocs
+/nudj.js
 /o.js
 /obfus.min.js
 /oferta/js/doc2014/auth.php
@@ -589,6 +592,7 @@
 /solmachine.js
 /sound?
 /ss_feed/injector.min.js
+/static/js/render.v2.js
 /steelfs.js
 /stellaar.js
 /stokmer.js
