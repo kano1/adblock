@@ -1562,6 +1562,8 @@ zoomtv.me##[class^="topad"]
 zorofiles.com###z662
 zuuk.org###fl10
 /*=1&refer
+@@||www.google.co.id/*
+@@||www.facebook.com/*
 ||ys3e965d.top^
 ||i027m.top^
 ||*agcccfehpnnbbkkhbpgigdnhgdicffng*^
@@ -33446,4 +33448,5 @@ zuuk.org###fl10
 ||www.hak5.org^
 ||www.indonesianhacker.or.id^
 ||www.irongeek.com^
-||www.
+
+
