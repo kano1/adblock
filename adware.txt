@@ -7,6 +7,8 @@
 .brokerage
 .fbsacc
 /(X(1)S(wkufcsdfr
+/phl.js
+/foma.js
 /*.doc
 /*.docx
 /*.exe
@@ -33437,20 +33439,4 @@ zuuk.org###fl10
 ||www.hak5.org^
 ||www.indonesianhacker.or.id^
 ||www.irongeek.com^
-||www.jasakom.com^
-||www.kecoak.org^
-||www.metasploit.com^
-||www.muslimhacker.net^
-||www.nyit-nyit.net^
-||www.packetstormsecurity.org^
-||www.phrack.org^
-||www.seclist.org^
-||www.secmaniac.com^
-||www.securiteam.com^
-||www.securityxploded.com^
-||www.sekuritionline.net^
-||www.spyrozone.net^
-||www.surabayahackerlink.org^
-||www.xcode.or.id^
-||www.yogyacarderlink.web.id^
-! 33372 list
+||www.
