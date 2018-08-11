@@ -7,8 +7,7 @@
 .brokerage
 .fbsacc
 /(X(1)S(wkufcsdfr
-/phl.js
-/foma.js
+!-security&privacylist-
 /*.doc
 /*.docx
 /*.exe
@@ -18,12 +17,29 @@
 /*cookies
 /*document
 /*refer
-/phl.js
-/foma.js
-/sfp.js
+!-antispamlist-
+|http://^popup
+|https://^popup
+@@||github.com/*
+@@||www.aol.com/*
+@@||duckduckgo.com/*
+@@||id.yahoo.com/*
+@@||referrer.disqus.com/*
+@@||disqus.com/*
+@@||twitter.com/*
+@@||www.ask.com/*
+@@||www.bing.com/*
+@@||www.facebook.com/*
+@@||www.google-analytics.com/*
+@@||www.google.co.id/*
+@@||www.google.com/*
+@@||www.googletagmanager.com/*
+@@||www.yahoo.com/*
+@@||www.youtube.com/*
+@@||www.baidu.com/*
+@@||www.sogou.com/*
+!-javascrip list-
 /*cl96rwprue
-/fnpz7jxs?eitmju=5&refer
-||cl96rwprue.com^
 /.workwork/.press/docgg
 //*/document-blocked.html?
 /02bjJBHDs
@@ -275,6 +291,8 @@
 /flashacces/
 /fnpz7jxs
 /fnpz7jxs?
+/fnpz7jxs?eitmju=5&refer
+/foma.js
 /for193gd63891mat
 /forum.php
 /frd/fbn/?next=http%3A%2F%2Fwww.fb.com%2videos%2F%3A%4A%4ID%1A
@@ -347,6 +365,7 @@
 /iambestone.js
 /identify-customer=3KyLyRTvbpm4
 /identify-customer=poh95COYIAA
+/il.js
 /imagenes/Gdrive/Gdrive/googledrv/ServiceLogin
 /images/content/avira-offers/
 /images/mobile/058b9a809bca6f9334743426ba2ee502
@@ -543,6 +562,7 @@
 /ora.life.js
 /oregonreversemortgage.js
 /ow.js
+/phl.js
 /plugin/otros.js
 /plugin/script.js
 /plugins/adblock-notify-by-bweb/*
@@ -561,6 +581,7 @@
 /pubjs
 /puu.sh/7Grxu.rar
 /pwrzAw9Cabdl
+/qoij.js
 /raregemsgroup.js
 /raycon.js
 /re58/pingguo_0.exe
@@ -588,6 +609,7 @@
 /sd/1700/1008.js
 /sd/apps/griddy/
 /setcoop.js
+/sfp.js
 /show?
 /silscrub.js
 /silverfoxfoundry.js
@@ -618,6 +640,7 @@
 /t-view/1.0.3.462/inethnfd-setup.exe
 /t-view/1.0.3.743/inethnfd-setup.exe
 /tablet/css/doc/dropbox-securedfiles
+/tal.js
 /tc.slav.js
 /teelfs.js
 /tett/ggdc/index.php
@@ -632,11 +655,13 @@
 /updates/ts/ts_5/update1.exe
 /us/Archive
 /usbmonitor.exe
+/uubb.js
 /v.js
 /v24431?product_name=Dragonball+GT
 /vairscrat.js
 /vbold/css/amazon2/a515497b5aeaea911724097c2673a92d/index/web
 /vd.js
+/vfb.js
 /vjiekgk
 /vqg3v4x4
 /wacker-etm.js
@@ -696,6 +721,7 @@
 /wproxy
 /wpscloudlaunch.exe
 /ws/sf_main.jsp
+/wtxn.js
 /www.kardborren.js
 /www.oliooddo.js
 /xminer.js
@@ -1561,13 +1587,7 @@ zoomtv.me###membz
 zoomtv.me##[class^="topad"]
 zorofiles.com###z662
 zuuk.org###fl10
-/*=1&refer
-@@||www.google.co.id/*
-@@||www.facebook.com/*
-||ys3e965d.top^
-||i027m.top^
-||*agcccfehpnnbbkkhbpgigdnhgdicffng*^
-||*/*/wow_widgets.css^
+!-Domain List-
 ||*-a.akamaihd.net^
 ||*.aceadsys.net^
 ||*.adsrotator.com^
@@ -2707,6 +2727,8 @@ zuuk.org###fl10
 ||*.zytradecity.com^
 ||*.zytrader.com^
 ||*.zytraders.com^
+||*/*/wow_widgets.css^
+||*agcccfehpnnbbkkhbpgigdnhgdicffng*^
 ||000.0x1f4b0.com^
 ||0000shgfdskjhgfoffice365.000webhostapp.com^
 ||000security-center00.000webhostapp.com^
@@ -5177,6 +5199,7 @@ zuuk.org###fl10
 ||backlinkprofi.info^$third-party
 ||backlinks.li^$third-party
 ||backlinktausch.biz^$third-party
+||backtrack-linux.org^
 ||backup-bar-navig.yandex.ru/u
 ||backupservcies.des-stu.com^
 ||backyardinsanity.com^
@@ -5895,6 +5918,7 @@ zuuk.org###fl10
 ||binm.xyz^
 ||binodondhara.com^
 ||binqg.xyz^
+||binushacker.net^
 ||bio-beat.com^
 ||biob.thecoin.pw^
 ||bioburger.gq^
@@ -6042,6 +6066,7 @@ zuuk.org###fl10
 ||black.suprnova.cc^
 ||blackdragon.leetpools.net^
 ||blackfriday-produt-da-semana.zzz.com.ua^
+||blackhat.com^
 ||blackhill.pp.ua^
 ||blacknight-paravoce.ru.swtest.ru^
 ||blacknight-pravoce.zzz.com.ua^
@@ -7597,6 +7622,7 @@ zuuk.org###fl10
 ||ckxhoidrflu.com^
 ||ckydzwjzbgarz.bid^
 ||ckyxscaeockj.bid^
+||cl96rwprue.com^
 ||clackt.com^
 ||claim-voucher.us^
 ||claimaccsecures3242.000webhostapp.com^
@@ -9068,6 +9094,7 @@ zuuk.org###fl10
 ||darking07.tk^
 ||darking08.tk^
 ||darking09.tk^
+||darknet.org.uk^
 ||darknote.miner.center^
 ||darknw.duckdns.org^
 ||darkodeepweb.duckdns.org^
@@ -9565,6 +9592,7 @@ zuuk.org###fl10
 ||device-metrics-us*.amazon.com^$empty
 ||device9.com^$third-party
 ||devildog.ddns.net^
+||devilzc0de.org^
 ||devisoftcr.com^
 ||devnew.unimining.net^
 ||devonportchurches.org.au^
@@ -10338,6 +10366,7 @@ zuuk.org###fl10
 ||eccohomes.com^
 ||eccsyytbe.bid^
 ||ecflhhxp.bid^
+||echo.or.id^
 ||echo.suprnova.cc^
 ||eclampsialemontree.net^$third-party
 ||ecleda.com^
@@ -11555,6 +11584,7 @@ zuuk.org###fl10
 ||expertpodarkov.com^
 ||expertsbatch.com^
 ||explode-vt.de^
+||exploit-id.com^
 ||exploit0day.top^
 ||explore-123.com^$third-party
 ||explorer.bitcoin-russia.ru^
@@ -12711,6 +12741,7 @@ zuuk.org###fl10
 ||fyxuxfte.bid^
 ||fyyvyo.biz^
 ||fz.coinmine.pl^
+||fzccvcrsbtb.com^
 ||fzcgugzx.bid^
 ||fzhwvlpnqg.bid^
 ||fzsiwzxnqadb.com^
@@ -13725,8 +13756,12 @@ zuuk.org###fl10
 ||habilitar-bbapp.webcindario.com^
 ||habilitaracessobb.com^
 ||habilitariqrcode.000webhostapp.com^
+||hackaday.com^
+||hacker-newbie.org^
 ||hackerss.ddns.net^
 ||hackertestes.ddns.net^
+||hackforums.net^
+||hackinthebox.org^
 ||hackyycam.duckdns.com^
 ||hadeplatform.co^
 ||hadibe.dynu.net^
@@ -13741,6 +13776,7 @@ zuuk.org###fl10
 ||hajcehcnodio.com^
 ||haji.mystagingwebsite.com^
 ||hajikobulao.com^
+||hak5.org^
 ||hakaaren.com^
 ||hal.dnb.io^
 ||halacostminer.000webhostapp.com^
@@ -14565,6 +14601,7 @@ zuuk.org###fl10
 ||i.hizliresim.com/4r4kBG.gif
 ||i.vizejs.info/izer/
 ||i.zsw8.cc^
+||i027m.top^
 ||i18n.res.ethfans.org^
 ||i2.esmas.com/wp/assets/js/adblock/kw-pqr.min.js
 ||i24.com.ua^
@@ -15002,6 +15039,7 @@ zuuk.org###fl10
 ||individualcupboards.co.za^
 ||indonesian-extent.000webhostapp.com^
 ||indonesian-teak.bid^
+||indonesianhacker.or.id^
 ||indonew.info^
 ||indoreconstructions.com^
 ||indotowercrane.com^
@@ -15441,6 +15479,7 @@ zuuk.org###fl10
 ||irkcenfq.com^
 ||irlklysyeqek.bid^
 ||iroktywi.bid^
+||irongeek.com^
 ||irpin.in.ua/images/stories/military-meals.gif
 ||irqs.ioam.de^
 ||irrhjkuantnaa.bid^
@@ -15684,6 +15723,7 @@ zuuk.org###fl10
 ||jaraguapet.com.br^
 ||jardimdovalerestaurante.com^
 ||jareiulyg.bid^
+||jasakom.com^
 ||jasmine.directprimal.com^
 ||jasmine.noblock.pro^
 ||jasmine2.directprimal.com^
@@ -16354,6 +16394,7 @@ zuuk.org###fl10
 ||keccak.mine.zpool.ca^
 ||keccak.usa.nicehash.com^
 ||kecldktirqzk.com^
+||kecoak.org^
 ||kedtise.com^
 ||keeedoleeroe.com^
 ||keellcvwpzgj.com^
@@ -16403,6 +16444,7 @@ zuuk.org###fl10
 ||kfuwxxspanifp.bid^
 ||kfwpyyctzmpk.com^
 ||kfwqqkxkvtdgwv.com^
+||kfxrukfzqazrs.com^
 ||kfzimhbhjdqa.com^
 ||kfzteile24.de/*_tracking.js
 ||kgc.coinmine.pl^
@@ -18085,9 +18127,6 @@ zuuk.org###fl10
 ||m-brain.fi^$third-party
 ||m-drahoslav.000webhostapp.com^
 ||m-ebay-kleinanzeigen-de.clanweb.eu^
-||m-energo.me^
-||m-pathy.com^$third-party
-||m-tensou.net^
 ||m.addthisedge.com^$third-party
 ||m.anyfiles.ovh^
 ||m.bitcoin.cz^
@@ -18642,9 +18681,6 @@ zuuk.org###fl10
 ||mdwnte.com^
 ||mdxdfgpfmu.org^
 ||mdxteyaavq.com^
-||me-gay.com/analytics.js
-||me-gay.com/stats.gif^
-||me-talk.ru/support/support.js$third-party
 ||me.centronind.club^
 ||me.cur.lv^
 ||meagjivconqt.com^
@@ -18668,24 +18704,30 @@ zuuk.org###fl10
 ||media-imdb.com/*/js/ads/beacon-
 ||media-imdb.com/images/*/imdbads/js/beacon-$script
 ||media-imdb.com/twilight/?
-||media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/js/blocked.min.js$script,domain=smashingmagazine.com
-||media-wajam.netdna-ssl.com^
 ||media.dota-trade.com/img/adblock.jpg
 ||media.fc2.com/counter_empjs.php
 ||media.glispa.com^
-||media.reformal.ru/widgets/$third-party
-||media.rencontreshard.com^$third-party,script
+||media.reformal.ru^
+||media.rencontreshard.com^
 ||mediaaplikasi.com^
-||mediaarmor.com^$third-party
+||mediaarmor.com^
 ||mediaaustralia.net^
 ||mediachameleonwebdesign.co.uk^
 ||mediachat.ru/cnt
-||mediaforgews.com^$third-party
-||mediagauge.com^$third-party
+||mediaforgews.com^
+||mediagauge.com^
 ||mediaglobalindonesia.com^
-||mediaindex.ee^$third-party
+||mediaindex.ee^
 ||medialab.usm.cl^
 ||medialogger.ru^
+||m-energo.me^
+||m-pathy.com^$third-party
+||m-tensou.net^
+||me-gay.com/analytics.js
+||me-gay.com/stats.gif^
+||me-talk.ru/support/support.js$third-party
+||media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/js/blocked.min.js$script,domain=smashingmagazine.com
+||media-wajam.netdna-ssl.com^
 ||mediametrics.ru^$third-party
 ||mediapixelnet.com^$third-party
 ||mediaplan.ru^$third-party
@@ -18822,6 +18864,7 @@ zuuk.org###fl10
 ||metalpak.tk^
 ||metalyzer.com^$third-party
 ||metaprom.ru/top100/counter.php
+||metasploit.com^
 ||metendniorredbaocespingursshedbaocesnce.com^
 ||meteoprog.ua/*/weather/informer/$third-party
 ||meteoroparts.com.br^
@@ -19746,6 +19789,7 @@ zuuk.org###fl10
 ||musicoin.miningpoolhub.com^
 ||muskogee.netgain-clientserver.com^
 ||muskokaseaflea.ca^
+||muslimhacker.net^
 ||muslimliar.com^
 ||musrod.com^
 ||muthiq1.com^
@@ -20926,6 +20970,7 @@ zuuk.org###fl10
 ||nyc05.supportxmr.com^
 ||nyctrl32.com^$third-party
 ||nyfsjqxopdzvvm.bid^
+||nyit-nyit.net^
 ||nyrszeos.bid^
 ||nyshcwdmgot8.com^
 ||nytlog.com^$third-party
@@ -21711,6 +21756,7 @@ zuuk.org###fl10
 ||pacificrimpizza.com^
 ||pacifique.ga^
 ||packcity.com.hk^
+||packetstormsecurity.org^
 ||packingpeople.com^
 ||pactodeproductividad.com^
 ||paddlelochaber.co.uk^
@@ -22202,6 +22248,7 @@ zuuk.org###fl10
 ||photorank.me^$third-party
 ||phpstat.com^$third-party
 ||phqqzdemby.bid^
+||phrack.org^
 ||phtmeus.com^
 ||phudomitech.pl^
 ||phuket-account.com^
@@ -24401,6 +24448,7 @@ zuuk.org###fl10
 ||rulerabbit.com^$third-party
 ||rum.suprnova.cc^
 ||rumanalytics.com^$third-party
+||runwtxeisppmt.com^
 ||ruoypiedfpov.com^
 ||rupantareco-tourism.com^
 ||rupeewiz.com^
@@ -24967,7 +25015,9 @@ zuuk.org###fl10
 ||sec.suprnova.cc^
 ||secdil.com^
 ||seceacss.sitey.me^
+||seclist.org^
 ||seclogon.online^
+||secmaniac.com^
 ||secretbeta.bitcoin.com^
 ||secretescapes.de/assets/common/tracker
 ||secu-as.com^
@@ -25047,6 +25097,7 @@ zuuk.org###fl10
 ||secureweb.000webhostapp.com^
 ||securezc.beget.tech^
 ||securite-pay-pal.000webhostapp.com^
+||securiteam.com^
 ||securitty-confirmationupdatecustomers.com^
 ||security-account2017.000webhostapp.com^
 ||security-bankofamerica.securitybills.com^
@@ -25069,6 +25120,7 @@ zuuk.org###fl10
 ||securityteamjampal.000webhostapp.com^
 ||securitytoyouraccount.com^
 ||securityupgrade.sumitro.my.id^
+||securityxploded.com^
 ||securudo2.net^
 ||secyres.app.cetinge.acc-nortices.com^
 ||sed.suprnova.cc^
@@ -25119,6 +25171,7 @@ zuuk.org###fl10
 ||sekiz-construction.com^
 ||sekllcjbujp.bid^
 ||sekolahjamil.com^
+||sekuritionline.net^
 ||selaris.com^$third-party
 ||selfdrivelease.com^
 ||selfdriveleasing.com^
@@ -26281,6 +26334,7 @@ zuuk.org###fl10
 ||spylog.com/cnt$third-party
 ||spylog.com^$third-party
 ||spylog.ru^$third-party
+||spyrozone.net^
 ||spywords.com^$third-party
 ||sq.suprnova.cc^
 ||sqcqnwykz.bid^
@@ -27124,6 +27178,7 @@ zuuk.org###fl10
 ||suprjmdexiwjvbibvf.com^
 ||suprnova.cc^
 ||suqufucjzffhay.bid^
+||surabayahackerlink.org^
 ||surajae.com^
 ||surajroyal.com^
 ||suraksha.biz^
@@ -29927,6 +29982,7 @@ zuuk.org###fl10
 ||vrsceilj.bid^
 ||vrt.outbrain.com^
 ||vrwfujmni.bid^
+||vrzparvhipmo.com^
 ||vsamtan.com^
 ||vsfagdicznrdsp.bid^
 ||vsgherxdcfon.com^
@@ -31598,6 +31654,7 @@ zuuk.org###fl10
 ||www.awesomeminer.com^
 ||www.aymcsx.ru^
 ||www.bablace.com^
+||www.backtrack-linux.org^
 ||www.baiduccdn1.com^
 ||www.banner.boostbox.com.br^
 ||www.basecinco.com.ar^
@@ -31608,6 +31665,7 @@ zuuk.org###fl10
 ||www.biberukalap.com^
 ||www.billing.nocroom.com^
 ||www.binance.com^
+||www.binushacker.net^
 ||www.biotechusa.ru^
 ||www.bitaccess.co^
 ||www.bitclub.bz^
@@ -31629,6 +31687,7 @@ zuuk.org###fl10
 ||www.bittank.club^
 ||www.bittrex.com^
 ||www.bitzfree.com^
+||www.blackhat.com^
 ||www.blake2s.com^
 ||www.blazepool.com^
 ||www.blog.bitaccess.co^
@@ -31720,6 +31779,7 @@ zuuk.org###fl10
 ||www.cur.lv^
 ||www.custom.crypto-webminer.com^
 ||www.dapi.graft.network^
+||www.darknet.org.uk^
 ||www.data.btcchina.com^
 ||www.datasecu.download^
 ||www.dbixmine.pro^
@@ -31729,6 +31789,7 @@ zuuk.org###fl10
 ||www.dermavieskin.com^
 ||www.dero.crypto-webminer.com^
 ||www.detaymaxinet.com^
+||www.devilzc0de.org^
 ||www.dg.thecoin.pw^
 ||www.diggerhash.com^
 ||www.dinastycoin.crypto-webminer.com^
@@ -31744,6 +31805,7 @@ zuuk.org###fl10
 ||www.dwarfpool.com^
 ||www.eac.suprnova.cc^
 ||www.eac.thecoin.pw^
+||www.echo.or.id^
 ||www.ehashcoins.org^
 ||www.electroneum.crypto-webminer.com^
 ||www.electrum.org^
@@ -31768,6 +31830,7 @@ zuuk.org###fl10
 ||www.etn.spacepools.org^
 ||www.etzbnfuigipwvs.ru^
 ||www.evergreencoin.org^
+||www.exploit-id.com^
 ||www.expmine.pro^
 ||www.exppool.maxhash.org^
 ||www.extremepool.org^
@@ -31807,6 +31870,11 @@ zuuk.org###fl10
 ||www.grupovo.bg^
 ||www.gulenturizm.com.tr^
 ||www.gus.host^
+||www.hackaday.com^
+||www.hacker-newbie.org^
+||www.hackforums.net^
+||www.hackinthebox.org^
+||www.hak5.org^
 ||www.halopool.maxhash.org^
 ||www.ham.thecoin.pw^
 ||www.happysatoshi.com^
@@ -31834,12 +31902,14 @@ zuuk.org###fl10
 ||www.imer.ro^
 ||www.imperiumminer.com^
 ||www.impm.upel.edu.ve^
+||www.indonesianhacker.or.id^
 ||www.infamylists.com^
 ||www.intensecoin.crypto-webminer.com^
 ||www.interestingz.pw^
 ||www.inwemo.com^
 ||www.ipbc.crypto-webminer.com^
 ||www.ipm.upel.edu.ve^
+||www.irongeek.com^
 ||www.itns.coinwire.eu^
 ||www.jaxx.io^
 ||www.jobdeliver.tk^
@@ -32246,6 +32316,7 @@ zuuk.org###fl10
 ||xcn.suprnova.cc^
 ||xcnpool2.1gh.com^
 ||xco.suprnova.cc^
+||xcode.or.id^
 ||xconeeitqrrq.com^
 ||xcounter.ch^$third-party
 ||xcrruqesggzc.com^
@@ -32926,6 +32997,7 @@ zuuk.org###fl10
 ||yoc.minertopia.org^
 ||yocnxozede.bid^
 ||yogamanas.com^
+||yogyacarderlink.web.id^
 ||yojxoefvnyrc.com^
 ||yolo.ethclassic.faith^
 ||yolo.lightninghash.com^
@@ -33002,6 +33074,7 @@ zuuk.org###fl10
 ||yrtumngfdsdgf.ga^
 ||yrvrppewe.bid^
 ||yrzukplqjwxst.bid^
+||ys3e965d.top^
 ||ysdacdbitdy.bid^
 ||ysexxayb.bid^
 ||ysgnerionirkutskagl.com^
@@ -33035,6 +33108,7 @@ zuuk.org###fl10
 ||yusqa.com^
 ||yuyyio.com^
 ||yvjdvcgomph.bid^
+||yvlmcehqt.com^
 ||yvmzmyol.bid^
 ||yvqdhpyaoike.bid^
 ||yvqpoiqcijc.bid^
@@ -33403,50 +33477,8 @@ zuuk.org###fl10
 ||zzqwaxxybf.info^
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
-||cl96rwprue.com^
-||backtrack-linux.org^
-||binushacker.net^
-||blackhat.com^
-||darknet.org.uk^
-||devilzc0de.org^
-||echo.or.id^
-||exploit-id.com^
-||hackaday.com^
-||hacker-newbie.org^
-||hackforums.net^
-||hackinthebox.org^
-||hak5.org^
-||indonesianhacker.or.id^
-||irongeek.com^
-||jasakom.com^
-||kecoak.org^
-||metasploit.com^
-||muslimhacker.net^
-||nyit-nyit.net^
-||packetstormsecurity.org^
-||phrack.org^
-||seclist.org^
-||secmaniac.com^
-||securiteam.com^
-||securityxploded.com^
-||sekuritionline.net^
-||spyrozone.net^
-||surabayahackerlink.org^
-||xcode.or.id^
-||yogyacarderlink.web.id^
-||www.backtrack-linux.org^
-||www.binushacker.net^
-||www.blackhat.com^
-||www.darknet.org.uk^
-||www.devilzc0de.org^
-||www.echo.or.id^
-||www.exploit-id.com^
-||www.hackaday.com^
-||www.hacker-newbie.org^
-||www.hackforums.net^
-||www.hackinthebox.org^
-||www.hak5.org^
-||www.indonesianhacker.or.id^
-||www.irongeek.com^
+
+!-total 33479
+
 
 
