@@ -17,14 +17,14 @@
 /*cookies
 /*document
 /*refer
-!-antispamlist-
+!-antispamlist and antifakesitelist-
 |http://^popup
 |https://^popup
 @@||github.com/*
 @@||www.aol.com/*
 @@||duckduckgo.com/*
-@@||id.yahoo.com/*
 @@||referrer.disqus.com/*
+@@||chatango.com/*
 @@||disqus.com/*
 @@||twitter.com/*
 @@||www.ask.com/*
@@ -35,9 +35,11 @@
 @@||www.google.com/*
 @@||www.googletagmanager.com/*
 @@||www.yahoo.com/*
+@@||id.yahoo.com/*
 @@||www.youtube.com/*
 @@||www.baidu.com/*
 @@||www.sogou.com/*
+@@||news.baidu.com/*
 !-javascrip list-
 /*cl96rwprue
 /.workwork/.press/docgg
