@@ -18,6 +18,7 @@
 /*document
 /*refer
 !-antispopup and antifakesitelist-
+about:blank^$popup,domain
 ||http://*^$popup
 ||https://*^$popup
 @@||*/video-play*
@@ -49,7 +50,6 @@
 @@||www.yourupload.com/*
 @@||www.youtube.com/*
 !scrip block list
-
 /*1472ba5c40f61fa1c77c42cf06248f13b8785f0
 /*2bf2bb23a52aabec11de54520fdff1130ac96d2b
 /*2dac76d4330f671c2a20527d72a8ae74f2c363f7
