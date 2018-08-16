@@ -18,7 +18,10 @@
 /*document
 /*refer
 !-antispopup and antifakesitelist-
-about:blank^$popup,domain
+http://*^$popup
+https://*^$popup
+about:blank*^$popup
+||about:blank^$popup,domain
 ||http://*^$popup
 ||https://*^$popup
 @@||*/video-play*
