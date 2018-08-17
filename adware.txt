@@ -8917,7 +8917,6 @@ zuuk.org###fl10
 ||clxakmsyjlryz.bid^
 ||clyksqxxdeduq.bid^
 ||cm.cdn.md/js5/Mackolik/Analytics.js
-||cm.g.doubleclick.net^
 ||cm1.xmrminingproxy.com^
 ||cm2.ei.m.e.twosisterswine.com.au^
 ||cm94632.tmweb.ru^
@@ -9838,7 +9837,6 @@ zuuk.org###fl10
 ||ctmket.com^
 ||ctmqakpbxbtk.com^
 ||ctnbnbjcjfkf.bid^
-||ctnsnet.com^$third-party
 ||ctplyvuuzdcv.com^
 ||ctpower.com.my^
 ||ctrb.jscdndel.com^
@@ -14041,7 +14039,6 @@ zuuk.org###fl10
 ||geo.query.yahoo.com^$domain=~mail.yahoo.com
 ||geo.suprnova.cc^
 ||geo.xcel.io^$third-party
-||geo.yahoo.com^
 ||geo314.eu^
 ||geobeacon.ign.com^
 ||geobytes.com^$third-party
@@ -19631,8 +19628,7 @@ zuuk.org###fl10
 ||materialservice.net^
 ||matesuces.unlimitednbn.net.au^
 ||mateuszgorecki.com^
-||matheranalytics.com^$third-party
-||mathtag.com^$third-party
+||matheranalytics.com^
 ||matinakassiopi.com^
 ||matjand.cf^
 ||matriscuram.com^
@@ -25116,7 +25112,6 @@ zuuk.org###fl10
 ||rfgodfdf.bid^
 ||rfheugyfwfffne.bid^
 ||rfigzjkp.bid^
-||rfihub.com^$third-party
 ||rfnd.cc^
 ||rfnd.co.uk^
 ||rfnd.com.cn^
@@ -26794,7 +26789,6 @@ zuuk.org###fl10
 ||simpleco.in^
 ||simplehitcounter.com^$third-party
 ||simplereach.com^$third-party
-||simpli.fi^$third-party
 ||simplisticnose.com^$third-party
 ||simplycast.us^$third-party
 ||simplyhometours.com^
