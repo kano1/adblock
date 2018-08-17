@@ -271,7 +271,6 @@ about:blank*^$popup
 /bitupont.js
 /bj.js
 /bk.js
-/bl.js
 /block
 /blue/upCopy
 /bn.js
