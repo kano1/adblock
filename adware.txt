@@ -20,6 +20,7 @@
 !-antispopup and antifakesitelist-
 http://*^$popup
 about:blank*^$popup
+@@www.*^$popup
 ||about:blank^$popup,domain
 ||http://*^$popup
 !scrip block list
