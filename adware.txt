@@ -21,7 +21,6 @@
 http://*^$popup
 about:blank*^$popup
 @@www.*^$popup
-@@id.yahoo.com*^$popup
 ||about:blank^$popup,domain
 ||http://*^$popup
 !scrip block list
