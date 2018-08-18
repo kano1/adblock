@@ -19,11 +19,9 @@
 /*refer
 !-antispopup and antifakesitelist-
 http://*^$popup
-https://*^$popup
 about:blank*^$popup
 ||about:blank^$popup,domain
 ||http://*^$popup
-||https://*^$popup
 @@||*/video-play*
 @@||chatango.com/*
 @@||disqus.com/*
