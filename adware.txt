@@ -9,9 +9,14 @@
 /(X(1)S(wkufcsdfr
 !-security&privacylist-
 /*.doc
+/*/doc/
 /*.docx
+/*/docx/
 /*.exe
+/*/exe/
+||*.exe^
 /*.pdf
+/*.cgi
 /*4d0bee.js
 /*Cookies
 /*cookies
