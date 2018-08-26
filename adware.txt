@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter Block
-! Homepage: http://app.webinspector.com
+! Homepage: https://github.com/kano1/adblock/blob/master/adware.txt
 !-- list for bad isueads
 
 .95j8g63f2v1b
