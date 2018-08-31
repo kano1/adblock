@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adware Filter By Garuda
+! Title: Adware Filter 
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public / ads that are exploited by hackers
 
@@ -2987,7 +2987,6 @@ zuuk.org###fl10
 ||*.ciuvo.bid^
 ||*.ciuvo.com^
 ||*.ciuvoc.club^
-||*.cloudfront.net^
 ||*.conduit.agency^
 ||*.conduit.app^
 ||*.conduit.at^
@@ -24072,7 +24071,6 @@ zuuk.org###fl10
 ||notice254.000webhostapp.com^
 ||notices.miningrigrentals.com^
 ||noticiasurgente.in/embed/p2/Controller/DesktopViewControladorMicki.js$script,domain=megatorrentshd.com
-||notifa.info^
 ||notification-2017.000webhostapp.com^
 ||notification-control-fb.com.urazlife.com.tr^
 ||notifications87456949152.000webhostapp.com^
@@ -38618,3 +38616,4 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 
 ! total list 38.620 
+
