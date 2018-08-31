@@ -1490,7 +1490,6 @@
 /ss.js
 /ss_feed/injector.min.js
 /st.js
-/static/js/render.v2.js
 /steelfs.js
 /stellaar.js
 /stokmer.js
@@ -19022,8 +19021,6 @@ zuuk.org###fl10
 ||jwfdyujffrzt.com^
 ||jwmstats.com^$third-party
 ||jwnlqtdvnm.bid^
-||jwplatform.com/ping.gif?
-||jwpltx.com^$third-party
 ||jwrfgh.org^
 ||jwviduwkczu.net^
 ||jwwhsqz.ru^
