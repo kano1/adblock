@@ -778,7 +778,6 @@
 /ian.js
 /ib.js
 /ic.js
-/id.js
 /identify-customer=3KyLyRTvbpm4
 /identify-customer=poh95COYIAA
 /ie.js
@@ -804,7 +803,6 @@
 /images/mobile/4bdfe7b7489a0ede0beaec4327ed8b1f
 /images/mobile/5a50690af98bc7436ff767482588206e
 /images/nocache/vicinio/installers/
-/images/ourtime
 /images/smilies/content/secure/49421895e8f181fc37cf3cb5935312b4
 /images/smilies/content/secure/53d20cd29e3f352e906cc9e39583e5a1
 /images/smilies/content/secure/e114a6af67a9671e27a55435070e849b
@@ -10038,16 +10036,8 @@ zuuk.org###fl10
 ||colgoty-chylki.com.ua^
 ||collarity.com^$third-party
 ||collarubio.com^
-||collect-elb-*.amazonaws.com^$empty
 ||collect-test.arabam.com^
-||collect.data.tm-awx.com^$third-party
-||collect.igodigital.com^$third-party
-||collections.mp.microsoft.com/*/collections/query
-||collector.apester.com^$third-party
-||collector.bunchbox.co^$third-party
-||collector.githubapp.com^
-||collector.puhutv.com^
-||collector.retailcrm.pro^$third-party
+||collector.retailcrm.pro^
 ||collector.schibsted.io^
 ||collector.xhamster.com^
 ||collegeanimal.net^
