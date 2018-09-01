@@ -1,18 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Badware
 
-/78hceef
-/lplgnnaf
-/sgbxqk
-/fxebwhx
-/g7fb6v
-/9u8jreve
-/g38f3fg
-/87gyub
-/hjv56
-/jhdgc63
-/78wygGHDwf
-/zxc678
+||www.am-i-evil.de/hkak1si
 ||mediaalias.com^
 ||hd-anime.org^
 ||pixelacker.de^
@@ -22,7 +11,6 @@
 ||glostrap.com/niugufvt4
 ||dropsheep.com/hjy93JNBasdas
 ||dropsheep.com/kvfmn
-||www.am-i-evil.de/hkak1si
 ||dsastrologer.com/t76f3g
 ||vkastrologer.com/t76f3g
 ||nlastrologer.com/t76f3g
@@ -889,4 +877,40 @@
 ||xlr8services.com/n970foumf
 ||zytrade.cn/1324w
 ||zytrade.cn/aust7a6ik
+||1dnscontrol.com^
+||Adblibri.ro^
+||Argumentiru.com^
+||Fontanka.ru^
+||Grupovo.bg^
+||Spbvoditel.ru^
+||an-crimea.ru^
+||ankerch-crimea.ru^
+||argumenti.ru^
+||argumentiru.com^
+||bg.pensionhotel.com^
+||blog.fontanka.ru^
+||caforssztxqzf2nm.onion^
+||calendar.fontanka.ru^
+||firewebmail.com^
+||grupovo.bg^
+||i24.com.ua^
+||most-dnepr.info^
+||novayagazeta.spb.ru^
+||osvitaportal.com.ua^
+||secure-check.host^
+||secure-dns1.net^
+||secureinbox.email^
+||spbvoditel.ru^
+||webcheck01.net^
+||webdefense1.net^
+||www.aica.co.jp^
+||www.fontanka.ru^
+||www.grupovo.bg^
+||www.imer.ro^
+||www.mediaport.ua^
+||www.online812.ru^
+||www.otbrana.com^
+||www.pensionhotel.cz^
+||www.sinematurk.com^
+||www.t.ks.ua^
 
