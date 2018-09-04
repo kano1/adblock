@@ -6304,7 +6304,6 @@ zuuk.org###fl10
 ||atcyboopajyp.com^
 ||atdarquitectura.cat^
 ||atdbio.com^
-||atdmt.com^$third-party
 ||atdrcprh.com^
 ||ateasecafe.com^
 ||atebqbjh.bid^
